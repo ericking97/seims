@@ -1,0 +1,1372 @@
+code,neighborhood,category,city,state
+20000,Aguascalientes Centro,Colonia,Aguascalientes,Aguascalientes
+20010,San Cayetano,Fraccionamiento,Aguascalientes,Aguascalientes
+20010,Colinas del Rio,Fraccionamiento,Aguascalientes,Aguascalientes
+20010,Olivares Santana,Colonia,Aguascalientes,Aguascalientes
+20010,Las Brisas,Fraccionamiento,Aguascalientes,Aguascalientes
+20010,Ramon Romo Franco,Fraccionamiento,Aguascalientes,Aguascalientes
+20016,Colinas de San Ignacio,Fraccionamiento,Aguascalientes,Aguascalientes
+20016,La Fundición,Fraccionamiento,Aguascalientes,Aguascalientes
+20016,Fundición II,Fraccionamiento,Aguascalientes,Aguascalientes
+20016,Los Sauces,Fraccionamiento,Aguascalientes,Aguascalientes
+20018,Línea de Fuego,Colonia,Aguascalientes,Aguascalientes
+20020,Buenos Aires,Colonia,Aguascalientes,Aguascalientes
+20020,Circunvalación Norte,Fraccionamiento,Aguascalientes,Aguascalientes
+20020,Las Arboledas,Fraccionamiento,Aguascalientes,Aguascalientes
+20020,Villas de San Francisco,Fraccionamiento,Aguascalientes,Aguascalientes
+20029,Villas de La Universidad,Fraccionamiento,Aguascalientes,Aguascalientes
+20030,El Sol,Fraccionamiento,Aguascalientes,Aguascalientes
+20030,Gremial,Colonia,Aguascalientes,Aguascalientes
+20030,Industrial,Colonia,Aguascalientes,Aguascalientes
+20040,Altavista,Colonia,Aguascalientes,Aguascalientes
+20040,Curtidores,Colonia,Aguascalientes,Aguascalientes
+20040,La Concordia,Fraccionamiento,Aguascalientes,Aguascalientes
+20040,Miravalle,Colonia,Aguascalientes,Aguascalientes
+20040,Panorama,Fraccionamiento,Aguascalientes,Aguascalientes
+20040,Residencial Guadalupe,Fraccionamiento,Aguascalientes,Aguascalientes
+20049,Colinas del Poniente,Fraccionamiento,Aguascalientes,Aguascalientes
+20050,Bugambilias,Condominio,Aguascalientes,Aguascalientes
+20050,Del Carmen,Colonia,Aguascalientes,Aguascalientes
+20050,La Fe,Colonia,Aguascalientes,Aguascalientes
+20050,México,Colonia,Aguascalientes,Aguascalientes
+20050,Primavera,Colonia,Aguascalientes,Aguascalientes
+20050,San Pablo,Colonia,Aguascalientes,Aguascalientes
+20059,Guadalupe,Colonia,Aguascalientes,Aguascalientes
+20059,Heliodoro Garcia,Colonia,Aguascalientes,Aguascalientes
+20060,Gómez,Fraccionamiento,Aguascalientes,Aguascalientes
+20060,Moderno,Fraccionamiento,Aguascalientes,Aguascalientes
+20064,Valle del Rio San Pedro,Fraccionamiento,Aguascalientes,Aguascalientes
+20070,Guadalupe Posada,Unidad habitacional,Aguascalientes,Aguascalientes
+20070,San Marcos,Colonia,Aguascalientes,Aguascalientes
+20070,San Marcos,Barrio,Aguascalientes,Aguascalientes
+20078,San Marcos,Fraccionamiento,Aguascalientes,Aguascalientes
+20080,Modelo,Fraccionamiento,Aguascalientes,Aguascalientes
+20080,Residencial del Valle I,Fraccionamiento,Aguascalientes,Aguascalientes
+20089,Residencial del Valle II,Fraccionamiento,Aguascalientes,Aguascalientes
+20100,La Herradura,Fraccionamiento,Aguascalientes,Aguascalientes
+20100,Club Campestre,Fraccionamiento,Aguascalientes,Aguascalientes
+20100,Jardines del Campestre,Condominio,Aguascalientes,Aguascalientes
+20100,Los Vergeles,Fraccionamiento,Aguascalientes,Aguascalientes
+20100,Ciudad Universitaria,Equipamiento,Aguascalientes,Aguascalientes
+20100,Rancho San Antonio,Condominio,Aguascalientes,Aguascalientes
+20110,Talamantes Ponce,Colonia,Aguascalientes,Aguascalientes
+20110,Granjas del Campestre,Fraccionamiento,Aguascalientes,Aguascalientes
+20110,Puerto las Hadas,Condominio,Aguascalientes,Aguascalientes
+20110,Valle del Campestre,Fraccionamiento,Aguascalientes,Aguascalientes
+20110,Villas de Montenegro,Fraccionamiento,Aguascalientes,Aguascalientes
+20110,Las Cavas,Fraccionamiento,Aguascalientes,Aguascalientes
+20110,La Enramada,Fraccionamiento,Aguascalientes,Aguascalientes
+20115,Trojes de Oriente,Fraccionamiento,Aguascalientes,Aguascalientes
+20115,Valle de las Trojes,Fraccionamiento,Aguascalientes,Aguascalientes
+20115,Villas de San Nicolás,Fraccionamiento,Aguascalientes,Aguascalientes
+20115,San Telmo,Fraccionamiento,Aguascalientes,Aguascalientes
+20115,La Paloma,Condominio,Aguascalientes,Aguascalientes
+20115,Barrio de Santiago,Fraccionamiento,Aguascalientes,Aguascalientes
+20115,Villa de las Trojes,Fraccionamiento,Aguascalientes,Aguascalientes
+20115,Valle de Santa Teresa,Fraccionamiento,Aguascalientes,Aguascalientes
+20116,La Troje,Fraccionamiento,Aguascalientes,Aguascalientes
+20116,Trojes de Alonso,Colonia,Aguascalientes,Aguascalientes
+20116,San Telmo Residencial,Fraccionamiento,Aguascalientes,Aguascalientes
+20116,Santa Fe,Condominio,Aguascalientes,Aguascalientes
+20117,Aguascalientes 2000,Fraccionamiento,Aguascalientes,Aguascalientes
+20118,Las Trojes,Condominio,Aguascalientes,Aguascalientes
+20118,Misión del Campanario,Fraccionamiento,Aguascalientes,Aguascalientes
+20118,Trojes de Cristal,Fraccionamiento,Aguascalientes,Aguascalientes
+20118,Trojes del Sol,Condominio,Aguascalientes,Aguascalientes
+20118,Residencial Santa Clara,Fraccionamiento,Aguascalientes,Aguascalientes
+20118,Misión de Santiago,Fraccionamiento,Aguascalientes,Aguascalientes
+20118,Andora Residencial,Condominio,Aguascalientes,Aguascalientes
+20118,Cadaqués Residencial,Condominio,Aguascalientes,Aguascalientes
+20118,Valle del Campanario,Fraccionamiento,Aguascalientes,Aguascalientes
+20118,Las Misiones,Fraccionamiento,Aguascalientes,Aguascalientes
+20118,Los Jarales,Condominio,Aguascalientes,Aguascalientes
+20118,Cerrada El Molino,Condominio,Aguascalientes,Aguascalientes
+20118,Valle Real,Fraccionamiento,Aguascalientes,Aguascalientes
+20118,Terzetto,Condominio,Aguascalientes,Aguascalientes
+20118,Cerrada de La Misión,Fraccionamiento,Aguascalientes,Aguascalientes
+20118,Cerrada del Valle,Fraccionamiento,Aguascalientes,Aguascalientes
+20118,Cerrada de la Mezquitera,Fraccionamiento,Aguascalientes,Aguascalientes
+20119,Lomas del Campestre 2a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20119,Villas del Campestre,Fraccionamiento,Aguascalientes,Aguascalientes
+20119,Los Calicantos,Fraccionamiento,Aguascalientes,Aguascalientes
+20120,Jardines de la Concepción,Fraccionamiento,Aguascalientes,Aguascalientes
+20120,Los Bosques,Fraccionamiento,Aguascalientes,Aguascalientes
+20120,Rinconada los Bosques,Condominio,Aguascalientes,Aguascalientes
+20123,La Perla Norte,Condominio,Aguascalientes,Aguascalientes
+20123,Arroyo El Molino,Fraccionamiento,Aguascalientes,Aguascalientes
+20124,Galerías,Zona comercial,Aguascalientes,Aguascalientes
+20124,Residencial Altaria,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Villa Teresa,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Cartagena 1947,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Villas de La Convención,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Lomas de La Asunción,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Villa de Nuestra Señora de La Asunción Sector Encino,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Villa de Nuestra Señora de La Asunción Sector Alameda,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,San José de Pozo Bravo,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Villa de Nuestra Señora de La Asunción Sector San Marcos,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Villa de Nuestra Señora de La Asunción Sector Estación,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Las Plazas,Condominio,Aguascalientes,Aguascalientes
+20126,El Rosedal,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Natura,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Montebello Della Stanza,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Villa Notre Dame,Condominio,Aguascalientes,Aguascalientes
+20126,Privada Guadalupe,Condominio,Aguascalientes,Aguascalientes
+20126,Rinconada Pozo Bravo,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Pozo Bravo Sur,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Villa Loma Dorada,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Jardines de Montebello,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Villas del Río,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,El Puertecito,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Rinconada del Puertecito,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Constitución,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Libertad,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Pozo Bravo Norte,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Soberana Convención Revolucionaria,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Villa Montaña,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Villas de Don Antonio,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Los Ángeles,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Capittala,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Recinto de la Macarena,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,La Soledad,Rancho,Aguascalientes,Aguascalientes
+20126,Los Naranjos,Fraccionamiento,Aguascalientes,Aguascalientes
+20126,Villa de Nuestra Señora de La Asunción Sector Guadalupe,Fraccionamiento,Aguascalientes,Aguascalientes
+20127,Bosques del Prado Norte,Fraccionamiento,Aguascalientes,Aguascalientes
+20128,Sartenejo,Rancho,Aguascalientes,Aguascalientes
+20129,Lomas del Campestre 1a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20130,Bosques del Prado Sur,Fraccionamiento,Aguascalientes,Aguascalientes
+20130,El Roble,Fraccionamiento,Aguascalientes,Aguascalientes
+20130,Fátima,Colonia,Aguascalientes,Aguascalientes
+20130,Independencia de México,Fraccionamiento,Aguascalientes,Aguascalientes
+20130,Nueva Rinconada,Fraccionamiento,Aguascalientes,Aguascalientes
+20130,Primo Verdad,Colonia,Aguascalientes,Aguascalientes
+20130,San José del Arenal,Colonia,Aguascalientes,Aguascalientes
+20130,Unidad Ganadera,Colonia,Aguascalientes,Aguascalientes
+20130,San Xavier,Condominio,Aguascalientes,Aguascalientes
+20130,Residencial del Real,Fraccionamiento,Aguascalientes,Aguascalientes
+20130,Puerta Navarra,Condominio,Aguascalientes,Aguascalientes
+20130,Residencial Campestre Club de Golf,Condominio,Aguascalientes,Aguascalientes
+20130,Palma Real,Fraccionamiento,Aguascalientes,Aguascalientes
+20130,Muralia,Fraccionamiento,Aguascalientes,Aguascalientes
+20135,Agropecuario,Zona comercial,Aguascalientes,Aguascalientes
+20135,Centro Distribuidor de Básicos,Zona comercial,Aguascalientes,Aguascalientes
+20136,La Rinconada,Fraccionamiento,Aguascalientes,Aguascalientes
+20137,El Plateado,Fraccionamiento,Aguascalientes,Aguascalientes
+20138,Residencial Pulgas Pandas Norte,Condominio,Aguascalientes,Aguascalientes
+20138,Residencial Pulgas Pandas Sur,Condominio,Aguascalientes,Aguascalientes
+20138,Villas del Vergel,Condominio,Aguascalientes,Aguascalientes
+20138,Cerrada San Miguel,Fraccionamiento,Aguascalientes,Aguascalientes
+20140,Las Hadas,Fraccionamiento,Aguascalientes,Aguascalientes
+20140,Morelos,Colonia,Aguascalientes,Aguascalientes
+20140,Andrea,Condominio,Aguascalientes,Aguascalientes
+20146,Los Arcos,Fraccionamiento,Aguascalientes,Aguascalientes
+20149,Industrial,Fraccionamiento,Aguascalientes,Aguascalientes
+20150,Buenavista,Colonia,Aguascalientes,Aguascalientes
+20150,C.T.M.,Fraccionamiento,Aguascalientes,Aguascalientes
+20150,La Estrella,Fraccionamiento,Aguascalientes,Aguascalientes
+20150,Macias Arellano,Colonia,Aguascalientes,Aguascalientes
+20150,Trento,Condominio,Aguascalientes,Aguascalientes
+20150,Nueva Andalucia Coto Residencial,Condominio,Aguascalientes,Aguascalientes
+20150,Lomas del Cobano,Colonia,Aguascalientes,Aguascalientes
+20157,La Higuerilla,Colonia,Aguascalientes,Aguascalientes
+20157,Parras,Fraccionamiento,Aguascalientes,Aguascalientes
+20158,El Cobano,Fraccionamiento,Aguascalientes,Aguascalientes
+20158,Hacienda el Cobano,Fraccionamiento,Aguascalientes,Aguascalientes
+20158,Trojes del Cobano,Fraccionamiento,Aguascalientes,Aguascalientes
+20158,Villas del Cobano,Fraccionamiento,Aguascalientes,Aguascalientes
+20159,Alianza Ferrocarrilera,Fraccionamiento,Aguascalientes,Aguascalientes
+20159,Bosques del Prado Oriente,Fraccionamiento,Aguascalientes,Aguascalientes
+20160,Francisco Guel Jimenez,Colonia,Aguascalientes,Aguascalientes
+20160,Las Viñas INFONAVIT,Unidad habitacional,Aguascalientes,Aguascalientes
+20164,Santa Anita 4a Sección,Colonia,Aguascalientes,Aguascalientes
+20169,Santa Anita,Fraccionamiento,Aguascalientes,Aguascalientes
+20169,Santa Anita 2a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20170,El Maguey,Fraccionamiento,Aguascalientes,Aguascalientes
+20170,Las Cumbres,Condominio,Aguascalientes,Aguascalientes
+20170,Lic Benito Juárez,Unidad habitacional,Aguascalientes,Aguascalientes
+20170,Nazario Ortiz Garza,Fraccionamiento,Aguascalientes,Aguascalientes
+20170,Rodolfo Landeros Gallegos,Fraccionamiento,Aguascalientes,Aguascalientes
+20170,S.T.E.M.A.,Fraccionamiento,Aguascalientes,Aguascalientes
+20170,Zona Militar,Colonia,Aguascalientes,Aguascalientes
+20170,Villa Bonita,Fraccionamiento,Aguascalientes,Aguascalientes
+20172,Lic Benito Palomino Dena,Fraccionamiento,Aguascalientes,Aguascalientes
+20172,Anexo Benito Palomino Dena (Cumbres II),Fraccionamiento,Aguascalientes,Aguascalientes
+20172,La Florida l,Fraccionamiento,Aguascalientes,Aguascalientes
+20172,La Florida ll,Fraccionamiento,Aguascalientes,Aguascalientes
+20172,Claustros Loma Dorada,Fraccionamiento,Aguascalientes,Aguascalientes
+20172,Cumbres III,Colonia,Aguascalientes,Aguascalientes
+20174,Lomas de Bellavista,Fraccionamiento,Aguascalientes,Aguascalientes
+20174,Lomas de las Fuentes,Fraccionamiento,Aguascalientes,Aguascalientes
+20174,Colinas de Oriente,Fraccionamiento,Aguascalientes,Aguascalientes
+20174,Vista de las Cumbres,Fraccionamiento,Aguascalientes,Aguascalientes
+20174,Los Laureles,Fraccionamiento,Aguascalientes,Aguascalientes
+20174,Mirador de las Culturas,Fraccionamiento,Aguascalientes,Aguascalientes
+20174,El Rocío,Ranchería,Aguascalientes,Aguascalientes
+20174,Villas de la Loma,Fraccionamiento,Aguascalientes,Aguascalientes
+20174,Los Pericos,Colonia,Aguascalientes,Aguascalientes
+20174,Paseos del Sol,Fraccionamiento,Aguascalientes,Aguascalientes
+20174,Miradores de Santa Elena,Fraccionamiento,Aguascalientes,Aguascalientes
+20174,Villas de las Fuentes,Fraccionamiento,Aguascalientes,Aguascalientes
+20175,La Hojarasca,Condominio,Aguascalientes,Aguascalientes
+20175,Ejido las Cumbres,Fraccionamiento,Aguascalientes,Aguascalientes
+20175,J Refugio Esparza Reyes,Colonia,Aguascalientes,Aguascalientes
+20175,Rinconadas las Cumbres,Fraccionamiento,Aguascalientes,Aguascalientes
+20175,Lomas de Oriente,Fraccionamiento,Aguascalientes,Aguascalientes
+20177,C.N.O.P. Oriente,Fraccionamiento,Aguascalientes,Aguascalientes
+20179,Pensadores Mexicanos,Fraccionamiento,Aguascalientes,Aguascalientes
+20179,Pintores Mexicanos,Fraccionamiento,Aguascalientes,Aguascalientes
+20179,Progreso,Colonia,Aguascalientes,Aguascalientes
+20179,Santa Regina,Fraccionamiento,Aguascalientes,Aguascalientes
+20179,Cerro Alto,Fraccionamiento,Aguascalientes,Aguascalientes
+20179,Santa Margarita,Fraccionamiento,Aguascalientes,Aguascalientes
+20179,Las Cumbres,Fraccionamiento,Aguascalientes,Aguascalientes
+20179,Luis Ortega Douglas,Fraccionamiento,Aguascalientes,Aguascalientes
+20180,Del Trabajo,Colonia,Aguascalientes,Aguascalientes
+20180,Ferronales,Colonia,Aguascalientes,Aguascalientes
+20180,Luis Gómez Zepeda (ferronales),Fraccionamiento,Aguascalientes,Aguascalientes
+20180,Lomas de Santa Anita,Colonia,Aguascalientes,Aguascalientes
+20180,Alameda,Fraccionamiento,Aguascalientes,Aguascalientes
+20180,Rinconada de La Alameda,Condominio,Aguascalientes,Aguascalientes
+20180,Bosques de La Alameda,Condominio,Aguascalientes,Aguascalientes
+20180,Nueva Alameda,Fraccionamiento,Aguascalientes,Aguascalientes
+20190,Héroes,Colonia,Aguascalientes,Aguascalientes
+20190,La Hacienda,Condominio,Aguascalientes,Aguascalientes
+20190,La Mancha,Condominio,Aguascalientes,Aguascalientes
+20196,Ojocaliente,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Ojocaliente INEGI,Unidad habitacional,Aguascalientes,Aguascalientes
+20196,Solidaridad 1a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Sol Naciente,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Villa de las Norias,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Camino Real,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Ribera del Sol,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Ambrosía,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,José Guadalupe Peralta Gámez,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Haciendas de Aguascalientes,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Villerías,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Vistas de Oriente,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Real de Haciendas,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Valle de los Cactus,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Colinas de San Patricio,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Balcones de Oriente,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Terra Nova,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,José Guadalupe Posada,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,El Rocío,Colonia,Aguascalientes,Aguascalientes
+20196,Valle del Bicentenario,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Paseo de los Cactus,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Balcones del Valle,Fraccionamiento,Aguascalientes,Aguascalientes
+20196,Real del Sol,Fraccionamiento,Aguascalientes,Aguascalientes
+20198,Ex Hacienda Ojocaliente,Colonia,Aguascalientes,Aguascalientes
+20198,Ejido Ojocaliente,Fraccionamiento,Aguascalientes,Aguascalientes
+20198,Misión Alameda,Condominio,Aguascalientes,Aguascalientes
+20199,El Riego,Colonia,Aguascalientes,Aguascalientes
+20199,Fidel Velázquez,Unidad habitacional,Aguascalientes,Aguascalientes
+20199,Municipio Libre,Fraccionamiento,Aguascalientes,Aguascalientes
+20200,Bellavista,Condominio,Aguascalientes,Aguascalientes
+20200,Loma Bonita,Fraccionamiento,Aguascalientes,Aguascalientes
+20200,Nueva Castilla,Condominio,Aguascalientes,Aguascalientes
+20200,Xenia Residencial,Condominio,Aguascalientes,Aguascalientes
+20200,Vergel de la Cantera,Fraccionamiento,Aguascalientes,Aguascalientes
+20200,Villas de La Cantera,Fraccionamiento,Aguascalientes,Aguascalientes
+20200,Lic Manuel Gómez Morin,Fraccionamiento,Aguascalientes,Aguascalientes
+20200,Residencial San Nicolás,Fraccionamiento,Aguascalientes,Aguascalientes
+20200,Villas del Mediterráneo,Fraccionamiento,Aguascalientes,Aguascalientes
+20200,Ex Hacienda La Cantera,Fraccionamiento,Aguascalientes,Aguascalientes
+20200,José Vasconcelos Calderón,Fraccionamiento,Aguascalientes,Aguascalientes
+20200,Porta Canteras,Fraccionamiento,Aguascalientes,Aguascalientes
+20200,Veteranos de la Revolución,Colonia,Aguascalientes,Aguascalientes
+20200,Fuentes del Lago,Condominio,Aguascalientes,Aguascalientes
+20200,El Quelite,Fraccionamiento,Aguascalientes,Aguascalientes
+20200,Olinda,Fraccionamiento,Aguascalientes,Aguascalientes
+20205,Educación Álamos,Fraccionamiento,Aguascalientes,Aguascalientes
+20205,Nueva España,Colonia,Aguascalientes,Aguascalientes
+20206,Lic. José López Portillo,Fraccionamiento,Aguascalientes,Aguascalientes
+20206,La Barranquilla,Colonia,Aguascalientes,Aguascalientes
+20206,Barandales de San José,Colonia,Aguascalientes,Aguascalientes
+20207,Canteras de San Javier,Fraccionamiento,Aguascalientes,Aguascalientes
+20207,Capital City,Zona comercial,Aguascalientes,Aguascalientes
+20207,Rinconada San José,Fraccionamiento,Aguascalientes,Aguascalientes
+20208,Canteras de San José,Fraccionamiento,Aguascalientes,Aguascalientes
+20210,Circunvalación Poniente,Fraccionamiento,Aguascalientes,Aguascalientes
+20210,España,Fraccionamiento,Aguascalientes,Aguascalientes
+20210,La Barranca de Guadalupe,Colonia,Aguascalientes,Aguascalientes
+20210,Pirules INFONAVIT,Colonia,Aguascalientes,Aguascalientes
+20216,Jardines de los Pirules,Fraccionamiento,Aguascalientes,Aguascalientes
+20217,Residencial los Pirules,Fraccionamiento,Aguascalientes,Aguascalientes
+20218,Canteras de Santa Imelda,Fraccionamiento,Aguascalientes,Aguascalientes
+20218,Francisco Villa,Colonia,Aguascalientes,Aguascalientes
+20218,Jardines del Lago,Fraccionamiento,Aguascalientes,Aguascalientes
+20218,San Martin de La Cantera,Colonia,Aguascalientes,Aguascalientes
+20218,Canteras de San Agustin,Condominio,Aguascalientes,Aguascalientes
+20218,Santa Imelda,Condominio,Aguascalientes,Aguascalientes
+20218,Los Eucaliptos 2a. Sección,Condominio,Aguascalientes,Aguascalientes
+20218,Los Eucaliptos,Condominio,Aguascalientes,Aguascalientes
+20218,San Agustín,Rancho,Aguascalientes,Aguascalientes
+20219,El Edén,Colonia,Aguascalientes,Aguascalientes
+20219,Parque Industrial el Vergel,Fraccionamiento,Aguascalientes,Aguascalientes
+20219,Misión Juan Pablo II,Condominio,Aguascalientes,Aguascalientes
+20220,Las Flores,Colonia,Aguascalientes,Aguascalientes
+20220,Vivienda Popular,Unidad habitacional,Aguascalientes,Aguascalientes
+20229,Las Torres,Fraccionamiento,Aguascalientes,Aguascalientes
+20230,Las Américas,Fraccionamiento,Aguascalientes,Aguascalientes
+20230,Obraje,Colonia,Aguascalientes,Aguascalientes
+20230,Santa Elena,Fraccionamiento,Aguascalientes,Aguascalientes
+20234,Agricultura,Colonia,Aguascalientes,Aguascalientes
+20235,El Dorado 1a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20235,El Dorado 2a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20235,Valle Dorado,Fraccionamiento,Aguascalientes,Aguascalientes
+20235,Villa Jardín,Fraccionamiento,Aguascalientes,Aguascalientes
+20236,Jardines de Santa Elena,Colonia,Aguascalientes,Aguascalientes
+20237,Hermanos Carreón,Fraccionamiento,Aguascalientes,Aguascalientes
+20237,Montebello,Fraccionamiento,Aguascalientes,Aguascalientes
+20238,Santa Elena 2a Sección,Colonia,Aguascalientes,Aguascalientes
+20239,La Fuente,Fraccionamiento,Aguascalientes,Aguascalientes
+20240,El Encino,Barrio,Aguascalientes,Aguascalientes
+20240,El Laurel,Colonia,Aguascalientes,Aguascalientes
+20240,La Luna,Fraccionamiento,Aguascalientes,Aguascalientes
+20240,La Salud,Barrio,Aguascalientes,Aguascalientes
+20240,Los Virreyes,Condominio,Aguascalientes,Aguascalientes
+20240,El Llanito,Colonia,Aguascalientes,Aguascalientes
+20240,Residencial el Encino,Fraccionamiento,Aguascalientes,Aguascalientes
+20240,Triana,Fraccionamiento,Aguascalientes,Aguascalientes
+20240,Residencial Cosío,Fraccionamiento,Aguascalientes,Aguascalientes
+20240,Triana,Condominio,Aguascalientes,Aguascalientes
+20247,San Fernando INFONAVIT,Unidad habitacional,Aguascalientes,Aguascalientes
+20248,Jardines de Triana,Fraccionamiento,Aguascalientes,Aguascalientes
+20249,Gámez,Fraccionamiento,Aguascalientes,Aguascalientes
+20250,Jesús Gómez Portugal,Fraccionamiento,Aguascalientes,Aguascalientes
+20250,Héroes de Aguascalientes,Fraccionamiento,Aguascalientes,Aguascalientes
+20250,Jardines de La Cruz,Fraccionamiento,Aguascalientes,Aguascalientes
+20250,La Huerta,Colonia,Aguascalientes,Aguascalientes
+20250,San Luis,Colonia,Aguascalientes,Aguascalientes
+20250,Villas de Kristal,Condominio,Aguascalientes,Aguascalientes
+20255,Bona Gens,Fraccionamiento,Aguascalientes,Aguascalientes
+20255,INFONAVIT Los Volcanes,Unidad habitacional,Aguascalientes,Aguascalientes
+20256,FOVISSSTE Ojocaliente I,Unidad habitacional,Aguascalientes,Aguascalientes
+20256,Ojocaliente FOVISSSTE II,Condominio,Aguascalientes,Aguascalientes
+20256,Ojocaliente las Torres,Fraccionamiento,Aguascalientes,Aguascalientes
+20256,Rinconada de La Cruz,Fraccionamiento,Aguascalientes,Aguascalientes
+20256,Villas de Ojocaliente,Fraccionamiento,Aguascalientes,Aguascalientes
+20256,Parque y Presa del Cedazo,Equipamiento,Aguascalientes,Aguascalientes
+20257,Lázaro Cárdenas,Unidad habitacional,Aguascalientes,Aguascalientes
+20259,La Estación,Barrio,Aguascalientes,Aguascalientes
+20259,La Purísima,Barrio,Aguascalientes,Aguascalientes
+20260,IV Centenario,Unidad habitacional,Aguascalientes,Aguascalientes
+20260,Jesús Terán Peredo,Fraccionamiento,Aguascalientes,Aguascalientes
+20260,Vivienda Militar,Fraccionamiento,Aguascalientes,Aguascalientes
+20260,Ojo de Agua,Colonia,Aguascalientes,Aguascalientes
+20260,Sidusa,Colonia,Aguascalientes,Aguascalientes
+20260,Rinconada El Cedazo,Condominio,Aguascalientes,Aguascalientes
+20263,Agua Clara,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,Balcones de Ojocaliente,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,Cielo Claro,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,Lomas del Chapulín,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,Ojo de Agua de Palmitas,Colonia,Aguascalientes,Aguascalientes
+20263,Salto de Ojocaliente,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,Solidaridad 2a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,Solidaridad 3a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,Tierra Buena,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,Rinconada San Antonio I,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,Cima del Chapulín,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,Cobano de Palmitas,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,San Jorge,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,La Lomita,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,Villa las Palmas,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,Bajío de las Palmas,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,Lomas del Gachupín,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,El Cedazo,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,San Ángel,Fraccionamiento,Aguascalientes,Aguascalientes
+20263,Villa Taurina,Fraccionamiento,Aguascalientes,Aguascalientes
+20264,Morelos INFONAVIT,Unidad habitacional,Aguascalientes,Aguascalientes
+20264,Vista del Sol 2a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20264,Vista del Sol 3a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20265,Ojo de Agua INFONAVIT,Unidad habitacional,Aguascalientes,Aguascalientes
+20266,Jardines del Sol,Fraccionamiento,Aguascalientes,Aguascalientes
+20266,La Cruz,Colonia,Aguascalientes,Aguascalientes
+20266,Misión de Santa Fe,Colonia,Aguascalientes,Aguascalientes
+20266,Vista del Sol 1a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20267,S.T.E.M.A.,Condominio,Aguascalientes,Aguascalientes
+20267,Jardines de La Convención,Colonia,Aguascalientes,Aguascalientes
+20267,Ojo de Agua FOVISSSTE 1a Sección,Unidad habitacional,Aguascalientes,Aguascalientes
+20267,Lic Primo Verdad INEGI,Condominio,Aguascalientes,Aguascalientes
+20268,Fuentes de La Asunción,Fraccionamiento,Aguascalientes,Aguascalientes
+20269,Jardines de La Luz,Colonia,Aguascalientes,Aguascalientes
+20270,Mesonero,Fraccionamiento,Aguascalientes,Aguascalientes
+20270,Bulevar,Fraccionamiento,Aguascalientes,Aguascalientes
+20270,El Caminero,Fraccionamiento,Aguascalientes,Aguascalientes
+20270,Jardines de Aguascalientes,Fraccionamiento,Aguascalientes,Aguascalientes
+20270,Jardines de La Asunción,Colonia,Aguascalientes,Aguascalientes
+20270,Las Canoas,Colonia,Aguascalientes,Aguascalientes
+20270,Lindavista,Fraccionamiento,Aguascalientes,Aguascalientes
+20270,México,Fraccionamiento,Aguascalientes,Aguascalientes
+20270,Los Cedros,Fraccionamiento,Aguascalientes,Aguascalientes
+20276,Jardines de las Bugambilias,Colonia,Aguascalientes,Aguascalientes
+20276,Jardines del Parque,Fraccionamiento,Aguascalientes,Aguascalientes
+20276,Jardines de Alejandría,Condominio,Aguascalientes,Aguascalientes
+20277,Pirámides,Fraccionamiento,Aguascalientes,Aguascalientes
+20277,Residencial del Parque,Fraccionamiento,Aguascalientes,Aguascalientes
+20277,Rinconada del Parque,Condominio,Aguascalientes,Aguascalientes
+20278,Jardines de las Fuentes,Fraccionamiento,Aguascalientes,Aguascalientes
+20280,Casasolida,Fraccionamiento,Aguascalientes,Aguascalientes
+20280,Central de Abastos,Zona comercial,Aguascalientes,Aguascalientes
+20280,Jardines del Sur,Colonia,Aguascalientes,Aguascalientes
+20280,Martinez Dominguez,Colonia,Aguascalientes,Aguascalientes
+20280,Prados de Villasunción,Fraccionamiento,Aguascalientes,Aguascalientes
+20280,Prados del Sur,Fraccionamiento,Aguascalientes,Aguascalientes
+20280,San Francisco del Arenal,Colonia,Aguascalientes,Aguascalientes
+20280,San Pedro,Colonia,Aguascalientes,Aguascalientes
+20280,Torres de San Francisco,Fraccionamiento,Aguascalientes,Aguascalientes
+20280,Trojes del Sur,Fraccionamiento,Aguascalientes,Aguascalientes
+20280,Australis,Condominio,Aguascalientes,Aguascalientes
+20280,Conjunto San Francisco,Fraccionamiento,Aguascalientes,Aguascalientes
+20283,Parque Industrial Siglo XXI,Parque industrial,Aguascalientes,Aguascalientes
+20283,Parque Industrial Siglo XXI (Ampliación),Parque industrial,Aguascalientes,Aguascalientes
+20284,INFONAVIT Potreros del Oeste,Unidad habitacional,Aguascalientes,Aguascalientes
+20284,Villas de Santa Rosa,Fraccionamiento,Aguascalientes,Aguascalientes
+20284,Villas del Oeste,Fraccionamiento,Aguascalientes,Aguascalientes
+20284,Vistas del Sur,Fraccionamiento,Aguascalientes,Aguascalientes
+20284,Rinconada del Sur,Fraccionamiento,Aguascalientes,Aguascalientes
+20284,Villas del Encino,Fraccionamiento,Aguascalientes,Aguascalientes
+20284,La Casita,Fraccionamiento,Aguascalientes,Aguascalientes
+20284,La Estancia,Fraccionamiento,Aguascalientes,Aguascalientes
+20285,Versalles 1a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20285,Versalles 2a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20286,Bosque Real,Condominio,Aguascalientes,Aguascalientes
+20286,Rancho Santa Mónica,Fraccionamiento,Aguascalientes,Aguascalientes
+20286,Vicente Guerrero,Colonia,Aguascalientes,Aguascalientes
+20286,Villas del Pilar 1a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20286,Barlovento,Condominio,Aguascalientes,Aguascalientes
+20286,Abadía,Condominio,Aguascalientes,Aguascalientes
+20286,Mangata,Condominio,Aguascalientes,Aguascalientes
+20286,Villas San Antonio,Fraccionamiento,Aguascalientes,Aguascalientes
+20286,Villa Capri,Fraccionamiento,Aguascalientes,Aguascalientes
+20286,Providencia,Condominio,Aguascalientes,Aguascalientes
+20286,Rinconada Santa Mónica,Fraccionamiento,Aguascalientes,Aguascalientes
+20286,Paseos de Santa Mónica,Condominio,Aguascalientes,Aguascalientes
+20287,Insurgentes,Fraccionamiento,Aguascalientes,Aguascalientes
+20288,Bulevares 1a. Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20288,Bulevares 2a. Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20289,Pilar Blanco INFONAVIT,Unidad habitacional,Aguascalientes,Aguascalientes
+20290,Ciudad Industrial,Fraccionamiento,Aguascalientes,Aguascalientes
+20290,Plaza Vestir,Zona comercial,Aguascalientes,Aguascalientes
+20290,Vista Alegre,Fraccionamiento,Aguascalientes,Aguascalientes
+20290,Parque Industrial ALTEC,Fraccionamiento,Aguascalientes,Aguascalientes
+20291,Centro SCT Aguascalientes,Equipamiento,Aguascalientes,Aguascalientes
+20296,Rústicos Calpulli,Fraccionamiento,Aguascalientes,Aguascalientes
+20296,Reserva San Matías,Condominio,Aguascalientes,Aguascalientes
+20296,Villas de Bonaterra,Condominio,Aguascalientes,Aguascalientes
+20296,San Francisco de los Arteaga,Fraccionamiento,Aguascalientes,Aguascalientes
+20296,Residencial San Javier,Fraccionamiento,Aguascalientes,Aguascalientes
+20296,Villa Sur,Fraccionamiento,Aguascalientes,Aguascalientes
+20297,Casa Blanca,Fraccionamiento,Aguascalientes,Aguascalientes
+20297,Jardines de Casablanca,Fraccionamiento,Aguascalientes,Aguascalientes
+20297,Jardines de Casanueva,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Emiliano Zapata,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Morelos I,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Morelos 2a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Solidaridad 4a Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Residencial Hacienda San Martín,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Viñedos del Sur,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Reserva Villa Sur,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Villas de Ajedrez,Colonia,Aguascalientes,Aguascalientes
+20298,Lomas de Vistabella,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,San Sebastián,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Lomas del Sur,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Lomas de Nueva York,Colonia,Aguascalientes,Aguascalientes
+20298,Laureles del Sur,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Lomas del Mirador,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Misión de Santa Lucía,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Lomas de Vistabella 2a. Sección,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Lotes de Arellano,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Condominio La terraza,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Valle del Cedazo,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Paseos de San Antonio,Fraccionamiento,Aguascalientes,Aguascalientes
+20298,Hacienda San Marcos,Condominio,Aguascalientes,Aguascalientes
+20299,Lomas del Ajedrez,Fraccionamiento,Aguascalientes,Aguascalientes
+20299,Mujeres Ilustres,Colonia,Aguascalientes,Aguascalientes
+20299,Periodistas,Fraccionamiento,Aguascalientes,Aguascalientes
+20299,Villa del Chapulín,Fraccionamiento,Aguascalientes,Aguascalientes
+20299,Los Dolores,Granja,Aguascalientes,Aguascalientes
+20299,Fundadores,Fraccionamiento,Aguascalientes,Aguascalientes
+20299,Lomas de San Jorge,Fraccionamiento,Aguascalientes,Aguascalientes
+20299,Reencuentro,Fraccionamiento,Aguascalientes,Aguascalientes
+20299,Villalta,Fraccionamiento,Aguascalientes,Aguascalientes
+20299,Lunaria,Fraccionamiento,Aguascalientes,Aguascalientes
+20300,Panamericano,Colonia,San Francisco de los Romo,Aguascalientes
+20300,San Francisco de los Romos Centro,Colonia,San Francisco de los Romo,Aguascalientes
+20303,El Tirón (El Progreso),Colonia,San Francisco de los Romo,Aguascalientes
+20303,Hidalgo,Fraccionamiento,San Francisco de los Romo,Aguascalientes
+20303,La Aurora,Granja,San Francisco de los Romo,Aguascalientes
+20303,La Guadalupana,Granja,San Francisco de los Romo,Aguascalientes
+20303,La Perla,Granja,San Francisco de los Romo,Aguascalientes
+20303,Los Cedros,Colonia,San Francisco de los Romo,Aguascalientes
+20303,María,Granja,San Francisco de los Romo,Aguascalientes
+20303,Revolución,Fraccionamiento,San Francisco de los Romo,Aguascalientes
+20303,San Francisco,Granja,San Francisco de los Romo,Aguascalientes
+20303,San José Buenavista,Colonia,San Francisco de los Romo,Aguascalientes
+20303,Cerrada San Francisco,Fraccionamiento,San Francisco de los Romo,Aguascalientes
+20304,Fracción de la Trinidad II,Colonia,San Francisco de los Romo,Aguascalientes
+20304,La Escondida (El Salero),Colonia,San Francisco de los Romo,Aguascalientes
+20304,Monserrat,Granja,San Francisco de los Romo,Aguascalientes
+20304,San José del Barranco,Colonia,San Francisco de los Romo,Aguascalientes
+20304,San Juan,Granja,San Francisco de los Romo,Aguascalientes
+20304,28 de Abril,Colonia,San Francisco de los Romo,Aguascalientes
+20304,Santa Bárbara,Fraccionamiento,San Francisco de los Romo,Aguascalientes
+20304,El Cardonal,Fraccionamiento,San Francisco de los Romo,Aguascalientes
+20304,Santa Fe,Fraccionamiento,San Francisco de los Romo,Aguascalientes
+20305,El Barranco,Colonia,San Francisco de los Romo,Aguascalientes
+20305,El Gigante,Colonia,San Francisco de los Romo,Aguascalientes
+20305,El Refugio,Granja,San Francisco de los Romo,Aguascalientes
+20305,Santa Elena (Elena),Granja,San Francisco de los Romo,Aguascalientes
+20305,La Gloria,Rancho,San Francisco de los Romo,Aguascalientes
+20305,La Paz,Ranchería,San Francisco de los Romo,Aguascalientes
+20305,La Providencia,Colonia,San Francisco de los Romo,Aguascalientes
+20305,La Trinidad,Colonia,San Francisco de los Romo,Aguascalientes
+20305,La Unión,Colonia,San Francisco de los Romo,Aguascalientes
+20305,Las Carmelitas,Colonia,San Francisco de los Romo,Aguascalientes
+20305,Los Lirios,Fraccionamiento,San Francisco de los Romo,Aguascalientes
+20305,Sociedad Plan de los Sabinos,Colonia,San Francisco de los Romo,Aguascalientes
+20305,San Ángel,Colonia,San Francisco de los Romo,Aguascalientes
+20305,San Pedro Victoria de Arriba,Colonia,San Francisco de los Romo,Aguascalientes
+20305,Santa Anita,Colonia,San Francisco de los Romo,Aguascalientes
+20305,Zacatenco,Granja,San Francisco de los Romo,Aguascalientes
+20306,Los Corrales (Los Corrales Blancos),Rancho,San Francisco de los Romo,Aguascalientes
+20306,El Chamizal,Rancho,San Francisco de los Romo,Aguascalientes
+20306,Mary,Granja,San Francisco de los Romo,Aguascalientes
+20306,Villa de Guadalupe,Rancho,San Francisco de los Romo,Aguascalientes
+20306,San Pablo,Rancho,San Francisco de los Romo,Aguascalientes
+20310,Los Negritos,Ranchería,Aguascalientes,Aguascalientes
+20310,Coyotes,Colonia,Aguascalientes,Aguascalientes
+20310,Viñedos Valle Redondo,Ranchería,Aguascalientes,Aguascalientes
+20310,La Loma de los Negritos,Pueblo,Aguascalientes,Aguascalientes
+20310,Viñedos San Felipe,Colonia,Aguascalientes,Aguascalientes
+20313,Cuauhtémoc (Las Palomas),Ejido,Aguascalientes,Aguascalientes
+20313,Hacienda Nueva,Ranchería,Aguascalientes,Aguascalientes
+20314,El Cariñán,Granja,Aguascalientes,Aguascalientes
+20316,Santa Cruz de la Presa,Ranchería,Aguascalientes,Aguascalientes
+20316,Lomas del Picacho,Fraccionamiento,Aguascalientes,Aguascalientes
+20319,CERESO (Para Varones y Mujeres),Zona federal,Aguascalientes,Aguascalientes
+20320,Estación Cañada Honda,Colonia,Aguascalientes,Aguascalientes
+20320,General José María Morelos y Pavón (Cañada Honda),Pueblo,Aguascalientes,Aguascalientes
+20320,Las Cañadas,Fraccionamiento,Aguascalientes,Aguascalientes
+20323,Santa María de Gallardo,Ejido,Aguascalientes,Aguascalientes
+20324,Jaltomate,Ejido,Aguascalientes,Aguascalientes
+20326,Loretta,Condominio,Aguascalientes,Aguascalientes
+20326,Parque Industrial Tecnopolo 2 (PITP2),Zona industrial,Aguascalientes,Aguascalientes
+20326,La Aurora,Condominio,Aguascalientes,Aguascalientes
+20326,Bosque Sereno,Condominio,Aguascalientes,Aguascalientes
+20326,Cavalia,Condominio,Aguascalientes,Aguascalientes
+20326,Quinta los Olivos,Fraccionamiento,Aguascalientes,Aguascalientes
+20326,Misión de San Jerónimo,Fraccionamiento,Aguascalientes,Aguascalientes
+20326,Privada Los Olivos,Fraccionamiento,Aguascalientes,Aguascalientes
+20326,Residencial Punta del Cielo,Fraccionamiento,Aguascalientes,Aguascalientes
+20326,Portón San Ignacio,Fraccionamiento,Aguascalientes,Aguascalientes
+20326,Valle de San Ignacio (El Filso),Colonia,Aguascalientes,Aguascalientes
+20326,San Ignacio,Ejido,Aguascalientes,Aguascalientes
+20326,La Trinidad,Fraccionamiento,Aguascalientes,Aguascalientes
+20326,Tamarindos,Fraccionamiento,Aguascalientes,Aguascalientes
+20326,Xaramá Entorno Residencial,Fraccionamiento,Aguascalientes,Aguascalientes
+20326,Puesta del Sol,Fraccionamiento,Aguascalientes,Aguascalientes
+20326,La Soledad,Fraccionamiento,Aguascalientes,Aguascalientes
+20326,La Rioja,Fraccionamiento,Aguascalientes,Aguascalientes
+20326,Rinconada de San Ignacio,Condominio,Aguascalientes,Aguascalientes
+20326,Ex-Hacienda de San Ignacio,Ranchería,Aguascalientes,Aguascalientes
+20326,La Perla,Colonia,Aguascalientes,Aguascalientes
+20326,San Ignacio II,Colonia,Aguascalientes,Aguascalientes
+20326,San Ignacio III,Colonia,Aguascalientes,Aguascalientes
+20328,Los Fresnos,Condominio,Aguascalientes,Aguascalientes
+20328,Terranza,Condominio,Aguascalientes,Aguascalientes
+20328,Pocitos,Colonia,Aguascalientes,Aguascalientes
+20328,Parque Industrial Tecnopolo Pocitos,Zona industrial,Aguascalientes,Aguascalientes
+20329,Privanza Andaluz,Condominio,Aguascalientes,Aguascalientes
+20329,Residencial Las Quintas,Fraccionamiento,Aguascalientes,Aguascalientes
+20329,La Querencia,Condominio,Aguascalientes,Aguascalientes
+20329,Rincón Andaluz,Condominio,Aguascalientes,Aguascalientes
+20329,La Plazuela,Condominio,Aguascalientes,Aguascalientes
+20329,Torres Residencial Campestre Santamaría,Fraccionamiento,Aguascalientes,Aguascalientes
+20329,La Punta Campestre,Condominio,Aguascalientes,Aguascalientes
+20329,Contadero,Condominio,Aguascalientes,Aguascalientes
+20329,La Joya,Condominio,Aguascalientes,Aguascalientes
+20329,Río Viejo,Condominio,Aguascalientes,Aguascalientes
+20330,Crucero Ojo de Agua de Crucitas,Ranchería,El Llano,Aguascalientes
+20330,Palo Alto,Ejido,El Llano,Aguascalientes
+20330,De Triana,Barrio,El Llano,Aguascalientes
+20330,Palo Alto Centro,Colonia,El Llano,Aguascalientes
+20330,Pobre,Barrio,El Llano,Aguascalientes
+20330,De Afuera,Barrio,El Llano,Aguascalientes
+20330,De Abajo,Barrio,El Llano,Aguascalientes
+20330,El Progreso,Barrio,El Llano,Aguascalientes
+20330,El Salto,Barrio,El Llano,Aguascalientes
+20330,El Saucito,Barrio,El Llano,Aguascalientes
+20333,El Cotón,Rancho,El Llano,Aguascalientes
+20333,El Milagro,Ranchería,El Llano,Aguascalientes
+20333,Las Flores (El Cotón),Ejido,El Llano,Aguascalientes
+20333,Licenciado Jesús Terán (El Muerto),Ejido,El Llano,Aguascalientes
+20333,San Francisco de los Viveros,Ranchería,El Llano,Aguascalientes
+20333,Sandovales (San Miguel de los Sandovales),Ejido,El Llano,Aguascalientes
+20333,San Francisco de los Pedroza,Ranchería,El Llano,Aguascalientes
+20333,El Barreno (Ampliación San Francisco),Colonia,El Llano,Aguascalientes
+20333,El Mocho,Ranchería,El Llano,Aguascalientes
+20333,San Gerónimo,Ranchería,El Llano,Aguascalientes
+20333,San José (San Antonio de Montoya),Granja,El Llano,Aguascalientes
+20334,El Novillo,Ranchería,El Llano,Aguascalientes
+20334,La Luz,Ejido,El Llano,Aguascalientes
+20335,El Puertecito,Ranchería,El Llano,Aguascalientes
+20335,Ojo de Agua de Crucitas,Ejido,El Llano,Aguascalientes
+20336,El Terremoto,Ejido,El Llano,Aguascalientes
+20336,Francisco Sarabia (La Reforma),Ranchería,El Llano,Aguascalientes
+20336,Los Conos,Ejido,El Llano,Aguascalientes
+20336,Montoya,Ejido,El Llano,Aguascalientes
+20336,Santa Rosa (El Huizache),Ejido,El Llano,Aguascalientes
+20337,El Retoño,Ranchería,El Llano,Aguascalientes
+20337,La Tinaja,Ejido,El Llano,Aguascalientes
+20337,El Rosario,Ranchería,El Llano,Aguascalientes
+20338,El Copetillo,Ranchería,El Llano,Aguascalientes
+20338,El Tildío,Ejido,El Llano,Aguascalientes
+20338,La Unión (La Paz),Ejido,El Llano,Aguascalientes
+20338,Rancho Nuevo,Ranchería,El Llano,Aguascalientes
+20338,El Chonguillo (El Chonguito),Ranchería,El Llano,Aguascalientes
+20338,El Copetillo (El Moquete),Ranchería,El Llano,Aguascalientes
+20338,Tanque el Coyote (El Coyote),Ranchería,El Llano,Aguascalientes
+20338,Mirasoles,Ranchería,El Llano,Aguascalientes
+20339,San José (San José de los Rodríguez),Ranchería,El Llano,Aguascalientes
+20339,El Centenario,Ranchería,El Llano,Aguascalientes
+20339,Santa Rita,Ranchería,El Llano,Aguascalientes
+20339,La Primavera,Ranchería,El Llano,Aguascalientes
+20339,Lomas del Refugio (La Loma),Ranchería,El Llano,Aguascalientes
+20339,Santa Elena,Colonia,El Llano,Aguascalientes
+20339,El Llano [CERESO],Zona federal,El Llano,Aguascalientes
+20339,Granja Temixco,Ranchería,El Llano,Aguascalientes
+20339,El Paraíso (Santa Rita),Ranchería,El Llano,Aguascalientes
+20339,Santa Rita Uno (Santa Rita),Ranchería,El Llano,Aguascalientes
+20339,San Lorenzo,Ranchería,El Llano,Aguascalientes
+20339,Santa Clara (Las Mieleras),Ranchería,El Llano,Aguascalientes
+20339,San Agustín de los Díaz,Ranchería,El Llano,Aguascalientes
+20339,La Lucita,Ranchería,El Llano,Aguascalientes
+20339,La Calavera,Ranchería,El Llano,Aguascalientes
+20339,San Antonio de la Rosa,Ranchería,El Llano,Aguascalientes
+20339,San Ramón,Ranchería,El Llano,Aguascalientes
+20340,Parque Industrial de Logística Automotriz (PILA),Zona industrial,Aguascalientes,Aguascalientes
+20340,Arellano,Ejido,Aguascalientes,Aguascalientes
+20340,Buenavista de Peñuelas,Ejido,Aguascalientes,Aguascalientes
+20340,Peñuelas (El Cienegal),Colonia,Aguascalientes,Aguascalientes
+20340,El Cedazo (Cedazo de San Antonio),Ejido,Aguascalientes,Aguascalientes
+20341,El Salto de los Salado,Ranchería,Aguascalientes,Aguascalientes
+20342,San Francisco,Ranchería,Aguascalientes,Aguascalientes
+20342,San Gerardo,Condominio,Aguascalientes,Aguascalientes
+20342,Santa Gertrudis,Ranchería,Aguascalientes,Aguascalientes
+20343,San José,Ranchería,Aguascalientes,Aguascalientes
+20344,Villa Licenciado Jesús Terán (Calvillito),Pueblo,Aguascalientes,Aguascalientes
+20345,Montoro (Mesa del Salto),Ejido,Aguascalientes,Aguascalientes
+20346,Los Caños,Ejido,Aguascalientes,Aguascalientes
+20347,Dolores,Ranchería,Aguascalientes,Aguascalientes
+20347,El Turicate,Colonia,Aguascalientes,Aguascalientes
+20348,San Antonio de Peñuelas,Ejido,Aguascalientes,Aguascalientes
+20349,Aguascalientes (Lic. Jesús Terán Peredo),Aeropuerto,Aguascalientes,Aguascalientes
+20350,Los Capricornios (La Biznaga),Ejido,San Francisco de los Romo,Aguascalientes
+20350,Loretito (Charco del Toro),Ejido,San Francisco de los Romo,Aguascalientes
+20350,Macario J Gómez,Colonia,San Francisco de los Romo,Aguascalientes
+20350,Medio Kilo,Ranchería,San Francisco de los Romo,Aguascalientes
+20355,Urbi Villa del Vergel,Fraccionamiento,San Francisco de los Romo,Aguascalientes
+20355,La Concepción,Pueblo,San Francisco de los Romo,Aguascalientes
+20355,Viñedos River,Hacienda,San Francisco de los Romo,Aguascalientes
+20355,Parque Industrial San Francisco,Zona industrial,San Francisco de los Romo,Aguascalientes
+20355,Paseos de la Providencia,Fraccionamiento,San Francisco de los Romo,Aguascalientes
+20356,Borrotes,Ranchería,San Francisco de los Romo,Aguascalientes
+20356,Estación Chicalote,Paraje,San Francisco de los Romo,Aguascalientes
+20357,Amapolas del Río,Ejido,San Francisco de los Romo,Aguascalientes
+20357,El Tepetate,Ranchería,San Francisco de los Romo,Aguascalientes
+20357,Rancho Nuevo,Ejido,San Francisco de los Romo,Aguascalientes
+20358,Monteverde,Fraccionamiento,San Francisco de los Romo,Aguascalientes
+20358,Valle de Aguascalientes,Fraccionamiento,San Francisco de los Romo,Aguascalientes
+20358,Reserva Quetzales,Condominio,San Francisco de los Romo,Aguascalientes
+20358,Rancho Seco,Ejido,San Francisco de los Romo,Aguascalientes
+20358,Puertecito de la Virgen,Pueblo,San Francisco de los Romo,Aguascalientes
+20358,Parque Industrial Valle de Aguascalientes,Zona industrial,San Francisco de los Romo,Aguascalientes
+20358,Ex-Viñedos Guadalupe,Colonia,San Francisco de los Romo,Aguascalientes
+20358,Villas de San Felipe,Fraccionamiento,San Francisco de los Romo,Aguascalientes
+20358,La Casita,Fraccionamiento,San Francisco de los Romo,Aguascalientes
+20358,La Ribera,Fraccionamiento,San Francisco de los Romo,Aguascalientes
+20358,Sendero de los Quetzales,Condominio,San Francisco de los Romo,Aguascalientes
+20363,San Antonio de los Pedroza,Ejido,Aguascalientes,Aguascalientes
+20363,San José de la Ordeña,Ejido,Aguascalientes,Aguascalientes
+20364,San Nicolás de Arriba,Ranchería,Aguascalientes,Aguascalientes
+20364,San Nicolás de en Medio,Ranchería,Aguascalientes,Aguascalientes
+20366,La Herrada,Ranchería,Aguascalientes,Aguascalientes
+20366,El Colorado (El Soyatal),Ejido,Aguascalientes,Aguascalientes
+20366,El Conejal,Ejido,Aguascalientes,Aguascalientes
+20367,2 de Octubre,Colonia,Aguascalientes,Aguascalientes
+20367,Che Guevara,Colonia,Aguascalientes,Aguascalientes
+20367,Tanque el Trigo,Colonia,Aguascalientes,Aguascalientes
+20367,Norias de Ojocaliente,Ejido,Aguascalientes,Aguascalientes
+20369,El Malacate,Ranchería,Aguascalientes,Aguascalientes
+20370,Puerto de Nieto,Rancho,Aguascalientes,Aguascalientes
+20371,Santa Cruz de la Presa (La Tlacuacha),Ranchería,Aguascalientes,Aguascalientes
+20371,Ciudad de los Niños,Ranchería,Aguascalientes,Aguascalientes
+20371,La Cotorra,Ranchería,Aguascalientes,Aguascalientes
+20372,Cabecita 3 Marías,Ranchería,Aguascalientes,Aguascalientes
+20372,El Niágara,Ranchería,Aguascalientes,Aguascalientes
+20372,Ex-Hacienda de Agostaderito,Ranchería,Aguascalientes,Aguascalientes
+20372,Granjas Fátima,Rancho,Aguascalientes,Aguascalientes
+20372,Villa Campestre San José del Monte,Fraccionamiento,Aguascalientes,Aguascalientes
+20373,El Ocote,Ranchería,Aguascalientes,Aguascalientes
+20374,La Huerta (La Cruz),Ranchería,Aguascalientes,Aguascalientes
+20375,El Tanque de los Jiménez,Ejido,Aguascalientes,Aguascalientes
+20375,Campestre Bosques de Las Lomas,Condominio,Aguascalientes,Aguascalientes
+20376,Centro de Arriba (El Taray),Ejido,Aguascalientes,Aguascalientes
+20377,San Pedro Cieneguilla,Ejido,Aguascalientes,Aguascalientes
+20378,Cieneguilla (La Lumbrera),Ejido,Aguascalientes,Aguascalientes
+20378,Cieneguilla,Hacienda,Aguascalientes,Aguascalientes
+20384,El Hotelito,Ranchería,Aguascalientes,Aguascalientes
+20384,Norias del Paso Hondo,Ejido,Aguascalientes,Aguascalientes
+20384,Norias del Paso Hondo,Ranchería,Aguascalientes,Aguascalientes
+20384,Paso Hondo,Ranchería,Aguascalientes,Aguascalientes
+20385,La Rinconada (La Escondida),Ranchería,Aguascalientes,Aguascalientes
+20386,El Duraznillo,Ranchería,Aguascalientes,Aguascalientes
+20388,Los Cuervos (Los Ojos de Agua),Ejido,Aguascalientes,Aguascalientes
+20388,San Bartolo,Ranchería,Aguascalientes,Aguascalientes
+20389,Los Durón,Ejido,Aguascalientes,Aguascalientes
+20389,Soledad de Abajo,Ranchería,Aguascalientes,Aguascalientes
+20389,Matamoros,Ranchería,Aguascalientes,Aguascalientes
+20392,Campestre el Potrerillo,Fraccionamiento,Aguascalientes,Aguascalientes
+20392,Parque Industrial Gigante de los Arellano,Zona industrial,Aguascalientes,Aguascalientes
+20392,El Gigante (Arellano),Ejido,Aguascalientes,Aguascalientes
+20392,Montoro,Rancho,Aguascalientes,Aguascalientes
+20392,Universidad Autónoma de Aguascalientes  Campus Sur,Equipamiento,Aguascalientes,Aguascalientes
+20393,Parque Industrial FINSA Aguascalientes,Zona industrial,Aguascalientes,Aguascalientes
+20394,Lomas de Arellano,Ranchería,Aguascalientes,Aguascalientes
+20394,Tanque de Guadalupe,Ranchería,Aguascalientes,Aguascalientes
+20394,Cañada Grande de Cotorina,Ranchería,Aguascalientes,Aguascalientes
+20395,Cotorina (Coyotes),Ejido,Aguascalientes,Aguascalientes
+20396,El Refugio de Peñuelas,Ejido,Aguascalientes,Aguascalientes
+20396,Ex-Hacienda de Peñuelas,Ranchería,Aguascalientes,Aguascalientes
+20400,Rincón de Romos Centro,Colonia,Rincón de Romos,Aguascalientes
+20403,Norte,Fraccionamiento,Rincón de Romos,Aguascalientes
+20403,Santa Elena,Colonia,Rincón de Romos,Aguascalientes
+20403,Desarrollo Especial La Pedrera,Colonia,Rincón de Romos,Aguascalientes
+20403,Subdivisión La Piedrera,Colonia,Rincón de Romos,Aguascalientes
+20403,Villa Seguridad,Fraccionamiento,Rincón de Romos,Aguascalientes
+20404,Valle del Real,Fraccionamiento,Rincón de Romos,Aguascalientes
+20404,José Luis Macias,Fraccionamiento,Rincón de Romos,Aguascalientes
+20404,Estancia de Chora,Fraccionamiento,Rincón de Romos,Aguascalientes
+20404,Emperadores,Fraccionamiento,Rincón de Romos,Aguascalientes
+20404,Embajadores,Fraccionamiento,Rincón de Romos,Aguascalientes
+20405,El Chaveño,Colonia,Rincón de Romos,Aguascalientes
+20405,De Guadalupe,Barrio,Rincón de Romos,Aguascalientes
+20405,La Paz,Fraccionamiento,Rincón de Romos,Aguascalientes
+20406,Rinconada de las Piedras,Fraccionamiento,Rincón de Romos,Aguascalientes
+20406,Rinconada Alameda,Colonia,Rincón de Romos,Aguascalientes
+20406,De Chora,Barrio,Rincón de Romos,Aguascalientes
+20406,Santa Cruz,Colonia,Rincón de Romos,Aguascalientes
+20406,Lázaro Cárdenas,Fraccionamiento,Rincón de Romos,Aguascalientes
+20406,Fraternidad,Fraccionamiento,Rincón de Romos,Aguascalientes
+20406,Cerro del Gato,Colonia,Rincón de Romos,Aguascalientes
+20410,Independencia,Colonia,Rincón de Romos,Aguascalientes
+20410,Magisterial,Colonia,Rincón de Romos,Aguascalientes
+20410,Magisterial II,Fraccionamiento,Rincón de Romos,Aguascalientes
+20410,Santa Anita,Colonia,Rincón de Romos,Aguascalientes
+20410,El Potrero,Fraccionamiento,Rincón de Romos,Aguascalientes
+20410,La Mezquitera,Fraccionamiento,Rincón de Romos,Aguascalientes
+20414,Desarrollo Especial,Colonia,Rincón de Romos,Aguascalientes
+20414,Villas de Jesús,Fraccionamiento,Rincón de Romos,Aguascalientes
+20415,San José,Colonia,Rincón de Romos,Aguascalientes
+20416,Presidentes de México,Colonia,Rincón de Romos,Aguascalientes
+20416,Solidaridad,Fraccionamiento,Rincón de Romos,Aguascalientes
+20417,Miguel Hidalgo,Fraccionamiento,Rincón de Romos,Aguascalientes
+20417,Popular,Fraccionamiento,Rincón de Romos,Aguascalientes
+20420,Pablo Escaleras,Colonia,Rincón de Romos,Aguascalientes
+20420,El Saucillo,Ejido,Rincón de Romos,Aguascalientes
+20420,Presa de San Elías (José Muñoz),Ranchería,Rincón de Romos,Aguascalientes
+20420,El Bajío,Ejido,Rincón de Romos,Aguascalientes
+20420,Mar Negro,Ranchería,Rincón de Romos,Aguascalientes
+20420,Potrero El Tarasco,Ranchería,Rincón de Romos,Aguascalientes
+20423,San Judas Tadeo (Santa Fe),Colonia,Rincón de Romos,Aguascalientes
+20423,Candelaria,Granja,Rincón de Romos,Aguascalientes
+20424,Puerta del Muerto (El 15),Ranchería,Rincón de Romos,Aguascalientes
+20424,California,Ranchería,Rincón de Romos,Aguascalientes
+20424,Bajío del Yerbaníz,Ranchería,Rincón de Romos,Aguascalientes
+20424,Tanque Blanco,Ranchería,Rincón de Romos,Aguascalientes
+20425,San Jacinto,Ejido,Rincón de Romos,Aguascalientes
+20426,San Juan de la Natura,Ejido,Rincón de Romos,Aguascalientes
+20427,El Valle de las Delicias,Colonia,Rincón de Romos,Aguascalientes
+20427,16 de Septiembre,Colonia,Rincón de Romos,Aguascalientes
+20427,Los Morales,Colonia,Rincón de Romos,Aguascalientes
+20427,San Isidro el Labrador,Ranchería,Rincón de Romos,Aguascalientes
+20430,La Misión,Ranchería,Rincón de Romos,Aguascalientes
+20434,18 de Marzo,Colonia,Rincón de Romos,Aguascalientes
+20435,El Salitrillo,Colonia,Rincón de Romos,Aguascalientes
+20435,El Barzón,Ranchería,Rincón de Romos,Aguascalientes
+20435,Las Norias,Ranchería,Rincón de Romos,Aguascalientes
+20435,Lupita,Granja,Rincón de Romos,Aguascalientes
+20436,El Milagro,Colonia,Rincón de Romos,Aguascalientes
+20437,Constitución,Colonia,Rincón de Romos,Aguascalientes
+20437,Héctor Hugo Olivares,Colonia,Rincón de Romos,Aguascalientes
+20437,Lindavista,Colonia,Rincón de Romos,Aguascalientes
+20437,Pabellón de Hidalgo Centro,Colonia,Rincón de Romos,Aguascalientes
+20437,Estancia de Mosqueira,Ejido,Rincón de Romos,Aguascalientes
+20437,El Rosario,Granja,Rincón de Romos,Aguascalientes
+20440,Morelos,Ranchería,Rincón de Romos,Aguascalientes
+20444,Las Camas,Ranchería,Rincón de Romos,Aguascalientes
+20444,Potrerillos,Ranchería,Rincón de Romos,Aguascalientes
+20444,Túnel de Potrerillo,Ranchería,Rincón de Romos,Aguascalientes
+20450,El Panal,Ejido,Rincón de Romos,Aguascalientes
+20450,Fresnillo,Ejido,Rincón de Romos,Aguascalientes
+20450,La Boquilla,Ranchería,Rincón de Romos,Aguascalientes
+20450,Peña Blanca,Ranchería,Rincón de Romos,Aguascalientes
+20454,El Ajiladero,Ranchería,Rincón de Romos,Aguascalientes
+20460,Cosío Centro,Colonia,Cosío,Aguascalientes
+20462,Luis Donaldo Colosio,Fraccionamiento,Cosío,Aguascalientes
+20466,Villas del Potrerito,Fraccionamiento,Cosío,Aguascalientes
+20467,Popular,Fraccionamiento,Cosío,Aguascalientes
+20468,Santa Cruz,Colonia,Cosío,Aguascalientes
+20469,Mexiquito,Colonia,Cosío,Aguascalientes
+20469,Coplamar,Colonia,Cosío,Aguascalientes
+20469,Vista Hermosa,Colonia,Cosío,Aguascalientes
+20470,Soledad de Abajo [Estación de Adames],Pueblo,Cosío,Aguascalientes
+20470,Zacatequillas,Pueblo,Cosío,Aguascalientes
+20470,Soledad de Arriba,Pueblo,Cosío,Aguascalientes
+20472,El Durazno,Colonia,Cosío,Aguascalientes
+20472,La Punta,Pueblo,Cosío,Aguascalientes
+20472,La Esperanza (El Salerito),Ranchería,Cosío,Aguascalientes
+20472,El Durazno,Ranchería,Cosío,Aguascalientes
+20472,Los Nava,Rancho,Cosío,Aguascalientes
+20476,El Salero,Pueblo,Cosío,Aguascalientes
+20478,El Refugio de Agua Zarca,Pueblo,Cosío,Aguascalientes
+20478,El Refugio de Providencia (Providencia),Pueblo,Cosío,Aguascalientes
+20478,Guadalupito,Colonia,Cosío,Aguascalientes
+20478,Santa María de la Paz,Pueblo,Cosío,Aguascalientes
+20500,San José de Gracia,Pueblo,San José de Gracia,Aguascalientes
+20500,El Jocoqui,Ranchería,San José de Gracia,Aguascalientes
+20502,Cieneguita,Ranchería,San José de Gracia,Aguascalientes
+20503,El Toril,Ranchería,San José de Gracia,Aguascalientes
+20504,Santa Elena de la Cruz (Capadero),Colonia,San José de Gracia,Aguascalientes
+20504,Las Amarillas,Ranchería,San José de Gracia,Aguascalientes
+20508,Túnel de Potrerillo,Ranchería,San José de Gracia,Aguascalientes
+20508,Tortugas,Ranchería,San José de Gracia,Aguascalientes
+20508,Potrerillo,Ranchería,San José de Gracia,Aguascalientes
+20510,Ciénega de Alcorcha,Ranchería,San José de Gracia,Aguascalientes
+20516,Boca del Túnel de Potrerillo,Ranchería,San José de Gracia,Aguascalientes
+20520,La Congoja,Ranchería,San José de Gracia,Aguascalientes
+20534,El Cepo,Ranchería,San José de Gracia,Aguascalientes
+20538,Antrialgo,Ranchería,San José de Gracia,Aguascalientes
+20538,Sierra Hermosa (Los Alamitos),Ranchería,San José de Gracia,Aguascalientes
+20540,Paredes,Ejido,San José de Gracia,Aguascalientes
+20545,San Antonio de los Ríos,Ejido,San José de Gracia,Aguascalientes
+20563,Guajolotes (Huijolotes),Ranchería,San José de Gracia,Aguascalientes
+20563,Santa Rosa de Lima,Ranchería,San José de Gracia,Aguascalientes
+20564,Rancho Viejo,Ranchería,San José de Gracia,Aguascalientes
+20567,Potrero de los López,Ejido,San José de Gracia,Aguascalientes
+20567,Paso del Sauz,Ranchería,San José de Gracia,Aguascalientes
+20570,El Tecongo,Ranchería,San José de Gracia,Aguascalientes
+20574,Estancia de San Marcos,Ranchería,San José de Gracia,Aguascalientes
+20575,El Taray,Ranchería,San José de Gracia,Aguascalientes
+20576,Club Náutico San José,Equipamiento,San José de Gracia,Aguascalientes
+20600,Tepezalá Centro,Colonia,Tepezalá,Aguascalientes
+20602,Cholula,Barrio,Tepezalá,Aguascalientes
+20603,San Rafael,Colonia,Tepezalá,Aguascalientes
+20604,Felipe González González,Colonia,Tepezalá,Aguascalientes
+20607,Del Socorro,Barrio,Tepezalá,Aguascalientes
+20607,Luis Ortega Douglas,Colonia,Tepezalá,Aguascalientes
+20607,Los Arcos,Colonia,Tepezalá,Aguascalientes
+20610,El Chayote,Ejido,Tepezalá,Aguascalientes
+20610,El Barranco,Ejido,Tepezalá,Aguascalientes
+20614,Los Alamitos,Ejido,Tepezalá,Aguascalientes
+20614,Luz de San Antonio (La Luz),Ranchería,Tepezalá,Aguascalientes
+20614,Ampliación los Hornos (el Lagunazo),Colonia,Tepezalá,Aguascalientes
+20615,El Progreso (La Tira),Ranchería,Tepezalá,Aguascalientes
+20615,El Porvenir,Ejido,Tepezalá,Aguascalientes
+20615,El Carmen,Ranchería,Tepezalá,Aguascalientes
+20616,San Antonio,Ejido,Tepezalá,Aguascalientes
+20620,Mesillas,Ejido,Tepezalá,Aguascalientes
+20622,Ojo de Agua de los Montes,Ejido,Tepezalá,Aguascalientes
+20634,La Victoria,Ranchería,Tepezalá,Aguascalientes
+20635,El Águila,Ejido,Tepezalá,Aguascalientes
+20637,Los Tres Reyes,Ranchería,Tepezalá,Aguascalientes
+20637,El Gigante,Ejido,Tepezalá,Aguascalientes
+20650,Puerto de la Concepción,Ejido,Tepezalá,Aguascalientes
+20656,Carboneras,Ejido,Tepezalá,Aguascalientes
+20656,El Refugio,Ejido,Tepezalá,Aguascalientes
+20657,Arroyo Hondo,Ejido,Tepezalá,Aguascalientes
+20658,Berrendos,Rancho,Tepezalá,Aguascalientes
+20658,El Tepozán,Ranchería,Tepezalá,Aguascalientes
+20659,Caldera,Ejido,Tepezalá,Aguascalientes
+20663,El Refugio,Ranchería,Pabellón de Arteaga,Aguascalientes
+20663,El Gigante,Granja,Pabellón de Arteaga,Aguascalientes
+20664,Nueva,Colonia,Pabellón de Arteaga,Aguascalientes
+20665,Emiliano Zapata,Colonia,Pabellón de Arteaga,Aguascalientes
+20665,El Pedernal Segundo,Ranchería,Pabellón de Arteaga,Aguascalientes
+20665,San Agustín de los Puentes,Ranchería,Pabellón de Arteaga,Aguascalientes
+20665,El Pilar,Granja,Pabellón de Arteaga,Aguascalientes
+20665,Los Contreras,Ranchería,Pabellón de Arteaga,Aguascalientes
+20666,El Garabato,Ranchería,Pabellón de Arteaga,Aguascalientes
+20666,Campestre San Carlos,Fraccionamiento,Pabellón de Arteaga,Aguascalientes
+20667,Santiago,Ejido,Pabellón de Arteaga,Aguascalientes
+20667,El Canal,Ranchería,Pabellón de Arteaga,Aguascalientes
+20668,El Pedregal,Ranchería,Pabellón de Arteaga,Aguascalientes
+20668,El Milagro,Ranchería,Pabellón de Arteaga,Aguascalientes
+20668,Puerta del Milagro,Ranchería,Pabellón de Arteaga,Aguascalientes
+20668,San Luis de Letras,Ejido,Pabellón de Arteaga,Aguascalientes
+20668,Miguel Alemán [Secadora],Ranchería,Pabellón de Arteaga,Aguascalientes
+20668,Ampliación Ejido Garabato,Ranchería,Pabellón de Arteaga,Aguascalientes
+20670,Pabellón de Arteaga Centro,Colonia,Pabellón de Arteaga,Aguascalientes
+20673,FOVISSSTE,Fraccionamiento,Pabellón de Arteaga,Aguascalientes
+20673,Jardines de Pabellón,Fraccionamiento,Pabellón de Arteaga,Aguascalientes
+20673,Subdivisión Haciendas de Pabellón,Fraccionamiento,Pabellón de Arteaga,Aguascalientes
+20673,Barrio Industrial,Colonia,Pabellón de Arteaga,Aguascalientes
+20674,Francisco Villa,Colonia,Pabellón de Arteaga,Aguascalientes
+20674,Villas de Pabellón,Colonia,Pabellón de Arteaga,Aguascalientes
+20674,Trojes de San Pedro,Fraccionamiento,Pabellón de Arteaga,Aguascalientes
+20675,Carboneras,Barrio,Pabellón de Arteaga,Aguascalientes
+20675,Palo Alto,Barrio,Pabellón de Arteaga,Aguascalientes
+20676,5 de Mayo,Colonia,Pabellón de Arteaga,Aguascalientes
+20676,Cosmos,Fraccionamiento,Pabellón de Arteaga,Aguascalientes
+20676,Popular,Fraccionamiento,Pabellón de Arteaga,Aguascalientes
+20677,Plutarco Elías Calles,Colonia,Pabellón de Arteaga,Aguascalientes
+20677,Progreso Sur,Colonia,Pabellón de Arteaga,Aguascalientes
+20678,Bosques de Pabellón,Fraccionamiento,Pabellón de Arteaga,Aguascalientes
+20678,Progreso Norte,Colonia,Pabellón de Arteaga,Aguascalientes
+20678,Vergel del Valle,Fraccionamiento,Pabellón de Arteaga,Aguascalientes
+20678,Valle del Vivero,Fraccionamiento,Pabellón de Arteaga,Aguascalientes
+20678,Subdivisión Villa de Guadalupe,Colonia,Pabellón de Arteaga,Aguascalientes
+20678,Valle del Vivero II,Fraccionamiento,Pabellón de Arteaga,Aguascalientes
+20680,Las Ánimas,Rancho,Pabellón de Arteaga,Aguascalientes
+20680,Las Ánimas,Pueblo,Pabellón de Arteaga,Aguascalientes
+20680,Santa Isabel,Fraccionamiento,Pabellón de Arteaga,Aguascalientes
+20683,El Mezquite (Ojo de Agua del Mezquite),Ejido,Pabellón de Arteaga,Aguascalientes
+20683,El Mezquite,Colonia,Pabellón de Arteaga,Aguascalientes
+20683,El Mezquite,Hacienda,Pabellón de Arteaga,Aguascalientes
+20683,Los Lira,Ranchería,Pabellón de Arteaga,Aguascalientes
+20684,Ojo Zarco,Colonia,Pabellón de Arteaga,Aguascalientes
+20684,Ojo Zarco,Ranchería,Pabellón de Arteaga,Aguascalientes
+20684,Ojo Zarco (La Loma),Ejido,Pabellón de Arteaga,Aguascalientes
+20684,El Rayo,Colonia,Pabellón de Arteaga,Aguascalientes
+20686,Gámez Orozco (Puerta de Carboneras),Colonia,Pabellón de Arteaga,Aguascalientes
+20686,San Pedro,Ranchería,Pabellón de Arteaga,Aguascalientes
+20687,El Cerrito,Ranchería,Pabellón de Arteaga,Aguascalientes
+20700,Guadalupe,Colonia,Asientos,Aguascalientes
+20700,Loma Bonita,Colonia,Asientos,Aguascalientes
+20700,Agua Nueva,Colonia,Asientos,Aguascalientes
+20700,Álamos,Colonia,Asientos,Aguascalientes
+20700,La Sierra,Colonia,Asientos,Aguascalientes
+20700,Arboledas,Colonia,Asientos,Aguascalientes
+20700,El Tule,Pueblo,Asientos,Aguascalientes
+20700,Villa Juárez Centro,Colonia,Asientos,Aguascalientes
+20700,La Loma,Colonia,Asientos,Aguascalientes
+20700,El Rascón,Colonia,Asientos,Aguascalientes
+20704,Viudas de Poniente,Ejido,Asientos,Aguascalientes
+20705,Charco Azul,Ejido,Asientos,Aguascalientes
+20706,El Llavero,Ranchería,Asientos,Aguascalientes
+20708,Amarillas de Esparza,Ejido,Asientos,Aguascalientes
+20709,Jilotepec,Ejido,Asientos,Aguascalientes
+20709,La Dichosa,Ejido,Asientos,Aguascalientes
+20709,San Vicente,Ranchería,Asientos,Aguascalientes
+20710,Asientos Centro,Colonia,Asientos,Aguascalientes
+20710,Santa Cruz,Barrio,Asientos,Aguascalientes
+20712,De Peñitas,Barrio,Asientos,Aguascalientes
+20713,Los Tepetates,Barrio,Asientos,Aguascalientes
+20713,Del CECYTE,Barrio,Asientos,Aguascalientes
+20714,De Guadalupe,Barrio,Asientos,Aguascalientes
+20715,INFONAVIT,Colonia,Asientos,Aguascalientes
+20715,Del Tepozán,Barrio,Asientos,Aguascalientes
+20715,Juventud,Barrio,Asientos,Aguascalientes
+20717,Real Minero,Fraccionamiento,Asientos,Aguascalientes
+20720,Guadalupe de Atlas,Ejido,Asientos,Aguascalientes
+20720,Bimbaletes Aguascalientes (El Álamo),Ejido,Asientos,Aguascalientes
+20720,Bimbaletes Atlas (Tanque de la Vieja),Ejido,Asientos,Aguascalientes
+20720,Crisóstomos,Ejido,Asientos,Aguascalientes
+20720,Estación San Gil,Paraje,Asientos,Aguascalientes
+20720,La Divina Providencia,Ranchería,Asientos,Aguascalientes
+20720,Alvarado,Rancho,Asientos,Aguascalientes
+20720,Licenciado Adolfo López Mateos,Ranchería,Asientos,Aguascalientes
+20720,Sociedad los Posada,Ranchería,Asientos,Aguascalientes
+20720,Sector de Producción Número 3,Ranchería,Asientos,Aguascalientes
+20720,Sector de Producción Número 2,Ranchería,Asientos,Aguascalientes
+20721,Plutarco Elías Calles,Ranchería,Asientos,Aguascalientes
+20722,Ciénega Grande,Ejido,Asientos,Aguascalientes
+20723,Noria del Borrego (Norias),Ejido,Asientos,Aguascalientes
+20723,Jarillas,Ejido,Asientos,Aguascalientes
+20724,Gómez Portugal,Colonia,Asientos,Aguascalientes
+20727,Pino Suárez (Rancho Viejo),Ranchería,Asientos,Aguascalientes
+20729,Clavellinas,Ejido,Asientos,Aguascalientes
+20730,Molinos,Ejido,Asientos,Aguascalientes
+20734,Los Encinos,Ranchería,Asientos,Aguascalientes
+20734,Lázaro Cárdenas,Colonia,Asientos,Aguascalientes
+20736,La Gloria,Ejido,Asientos,Aguascalientes
+20737,Santuario del Tepozán,Ranchería,Asientos,Aguascalientes
+20739,La Soledad,Ranchería,Asientos,Aguascalientes
+20739,San Pedro,Colonia,Asientos,Aguascalientes
+20740,El Polvo,Ejido,Asientos,Aguascalientes
+20741,Caldera,Ejido,Asientos,Aguascalientes
+20742,Licenciado Adolfo López Mateos,Ejido,Asientos,Aguascalientes
+20742,Charco Prieto (El Palomar),Ranchería,Asientos,Aguascalientes
+20742,El Fénix,Ranchería,Asientos,Aguascalientes
+20744,San Antonio de los Martínez,Ejido,Asientos,Aguascalientes
+20746,Gorriones,Ejido,Asientos,Aguascalientes
+20748,Ojo de Agua de Rosales,Ejido,Asientos,Aguascalientes
+20749,Tepetatillo,Rancho,Asientos,Aguascalientes
+20750,San José del Río,Ejido,Asientos,Aguascalientes
+20768,El Águila [Rancho],Rancho,Asientos,Aguascalientes
+20770,Emancipación (Borunda),Colonia,Asientos,Aguascalientes
+20773,Tanque Viejo,Ejido,Asientos,Aguascalientes
+20773,Las Adjuntas,Ejido,Asientos,Aguascalientes
+20773,La Tinajuela,Barrio,Asientos,Aguascalientes
+20780,San Rafael de Ocampo,Ranchería,Asientos,Aguascalientes
+20780,San José del Tulillo,Ranchería,Asientos,Aguascalientes
+20782,San Isidro,Ranchería,Asientos,Aguascalientes
+20785,El Chonguillo,Rancho,Asientos,Aguascalientes
+20790,Francisco Villa,Ranchería,Asientos,Aguascalientes
+20795,La Esperanza,Ranchería,Asientos,Aguascalientes
+20795,Ojo de Agua de los Sauces,Ejido,Asientos,Aguascalientes
+20795,Pilotos,Ejido,Asientos,Aguascalientes
+20796,Tanque de Guadalupe,Ejido,Asientos,Aguascalientes
+20796,Las Joyas,Ranchería,Asientos,Aguascalientes
+20796,El Epazote,Ranchería,Asientos,Aguascalientes
+20796,Las Fraguas,Ejido,Asientos,Aguascalientes
+20796,El Salitre,Ranchería,Asientos,Aguascalientes
+20796,El Bajío de los Campos,Barrio,Asientos,Aguascalientes
+20799,Las Negritas,Ejido,Asientos,Aguascalientes
+20800,Calvillo Centro,Colonia,Calvillo,Aguascalientes
+20802,El Mirador,Fraccionamiento,Calvillo,Aguascalientes
+20802,Independencia,Fraccionamiento,Calvillo,Aguascalientes
+20802,López Mateos,Colonia,Calvillo,Aguascalientes
+20802,Las Paseras,Fraccionamiento,Calvillo,Aguascalientes
+20802,Vista Hermosa,Fraccionamiento,Calvillo,Aguascalientes
+20802,Campo Militar 14 CINE,Zona militar,Calvillo,Aguascalientes
+20802,El Guayabo,Colonia,Calvillo,Aguascalientes
+20802,Sección Benito Juárez,Colonia,Calvillo,Aguascalientes
+20802,Sección Cerritos,Colonia,Calvillo,Aguascalientes
+20802,Sección Loma de Fundadores,Colonia,Calvillo,Aguascalientes
+20802,Vista Hermosa 2a. Sección,Fraccionamiento,Calvillo,Aguascalientes
+20803,Lomas de Huejúcar,Colonia,Calvillo,Aguascalientes
+20803,San Nicolás,Colonia,Calvillo,Aguascalientes
+20803,San Rafael,Fraccionamiento,Calvillo,Aguascalientes
+20803,Rincón de Baltazares,Fraccionamiento,Calvillo,Aguascalientes
+20803,José Landeros,Fraccionamiento,Calvillo,Aguascalientes
+20804,Ejidal,Colonia,Calvillo,Aguascalientes
+20804,Liberal,Colonia,Calvillo,Aguascalientes
+20804,Rincón de Baltazares,Colonia,Calvillo,Aguascalientes
+20804,Valle de Santiago,Colonia,Calvillo,Aguascalientes
+20804,Arroyo de Los Caballos,Colonia,Calvillo,Aguascalientes
+20804,Del Carmen,Colonia,Calvillo,Aguascalientes
+20804,Azteca,Colonia,Calvillo,Aguascalientes
+20804,Morelos,Colonia,Calvillo,Aguascalientes
+20805,Cerrito Alto,Colonia,Calvillo,Aguascalientes
+20805,Emiliano Zapata,Colonia,Calvillo,Aguascalientes
+20805,Las Flores,Colonia,Calvillo,Aguascalientes
+20805,Martínez,Fraccionamiento,Calvillo,Aguascalientes
+20805,Valle de Huejúcar,Colonia,Calvillo,Aguascalientes
+20805,Los Angeles,Colonia,Calvillo,Aguascalientes
+20805,Chicago,Barrio,Calvillo,Aguascalientes
+20810,El Terrero de la Labor,Ranchería,Calvillo,Aguascalientes
+20810,Palo Alto,Ranchería,Calvillo,Aguascalientes
+20816,El Sauz de la Labor,Ranchería,Calvillo,Aguascalientes
+20816,El Zapote de la Labor,Ranchería,Calvillo,Aguascalientes
+20816,Las Cuevas de la Labor,Ranchería,Calvillo,Aguascalientes
+20816,Las Rubias,Ranchería,Calvillo,Aguascalientes
+20816,Piedras Chinas,Ranchería,Calvillo,Aguascalientes
+20820,La Pochota,Ranchería,Calvillo,Aguascalientes
+20820,El Jagüey,Ranchería,Calvillo,Aguascalientes
+20820,El Mirador,Ranchería,Calvillo,Aguascalientes
+20820,San Tadeo,Pueblo,Calvillo,Aguascalientes
+20820,Jardines de San Isidro (Colonia Limón),Colonia,Calvillo,Aguascalientes
+20820,Solidaridad,Fraccionamiento,Calvillo,Aguascalientes
+20824,El Capulín,Ranchería,Calvillo,Aguascalientes
+20824,Los Lazos,Ranchería,Calvillo,Aguascalientes
+20824,Montoro,Ranchería,Calvillo,Aguascalientes
+20830,Colomos,Ranchería,Calvillo,Aguascalientes
+20830,Chiquihuitero (San Isidro),Ranchería,Calvillo,Aguascalientes
+20830,La Panadera,Ranchería,Calvillo,Aguascalientes
+20830,Las Víboras (Viborillas),Ranchería,Calvillo,Aguascalientes
+20830,El Llano (El Llano de San Rafael),Ranchería,Calvillo,Aguascalientes
+20830,Villas del Laurel,Fraccionamiento,Calvillo,Aguascalientes
+20832,El Maguey,Ranchería,Calvillo,Aguascalientes
+20832,El Sauz,Ranchería,Calvillo,Aguascalientes
+20832,Río Gil,Ranchería,Calvillo,Aguascalientes
+20834,Potrero de los López,Colonia,Calvillo,Aguascalientes
+20834,Las Huertas,Colonia,Calvillo,Aguascalientes
+20834,La Pila,Colonia,Calvillo,Aguascalientes
+20834,La Alberca,Colonia,Calvillo,Aguascalientes
+20834,La Españita,Colonia,Calvillo,Aguascalientes
+20834,Los Baños,Colonia,Calvillo,Aguascalientes
+20834,Los Esparza,Colonia,Calvillo,Aguascalientes
+20834,La Placita,Colonia,Calvillo,Aguascalientes
+20834,La Casa Grande,Colonia,Calvillo,Aguascalientes
+20834,Azoteyita,Colonia,Calvillo,Aguascalientes
+20834,Catana,Ranchería,Calvillo,Aguascalientes
+20834,El Cuervero (Cuerveros),Pueblo,Calvillo,Aguascalientes
+20834,Junta de los Ríos,Ranchería,Calvillo,Aguascalientes
+20834,Malpaso,Pueblo,Calvillo,Aguascalientes
+20834,Ojocaliente,Colonia,Calvillo,Aguascalientes
+20834,Potrero de los López,Ranchería,Calvillo,Aguascalientes
+20834,Río Gil de Arriba,Ranchería,Calvillo,Aguascalientes
+20834,La Fortuna,Colonia,Calvillo,Aguascalientes
+20834,Los Arcos,Colonia,Calvillo,Aguascalientes
+20834,Magisterial,Colonia,Calvillo,Aguascalientes
+20840,Los Mirasoles,Ranchería,Calvillo,Aguascalientes
+20840,El Potrerito,Ranchería,Calvillo,Aguascalientes
+20842,Las Joyas,Ranchería,Calvillo,Aguascalientes
+20844,Chimaltitán,Ranchería,Calvillo,Aguascalientes
+20844,San José de los Laureles,Ranchería,Calvillo,Aguascalientes
+20844,Mesa de los Pozos (La Laguna),Ranchería,Calvillo,Aguascalientes
+20850,Crucero las Pilas,Ranchería,Calvillo,Aguascalientes
+20850,La Calixtina,Ranchería,Calvillo,Aguascalientes
+20850,Las Moras,Ranchería,Calvillo,Aguascalientes
+20850,Mesa Grande,Ranchería,Calvillo,Aguascalientes
+20850,El Refugio (Las Praderas),Ranchería,Calvillo,Aguascalientes
+20850,Tepezalilla de Abajo,Ranchería,Calvillo,Aguascalientes
+20850,Pozo de los Artistas,Colonia,Calvillo,Aguascalientes
+20852,Los Adobes,Ranchería,Calvillo,Aguascalientes
+20852,Arroyo Ojocalientillo,Ranchería,Calvillo,Aguascalientes
+20854,Parque Industrial Calvillo,Zona industrial,Calvillo,Aguascalientes
+20854,El Tepetate de Arriba,Ranchería,Calvillo,Aguascalientes
+20854,El Tepetate de Abajo,Ranchería,Calvillo,Aguascalientes
+20854,Los Alisos,Ranchería,Calvillo,Aguascalientes
+20854,Ojo de Agua,Ranchería,Calvillo,Aguascalientes
+20854,El Garruño,Ranchería,Calvillo,Aguascalientes
+20854,El Taray,Colonia,Calvillo,Aguascalientes
+20856,Barranca del Roble,Ranchería,Calvillo,Aguascalientes
+20856,El Güencho,Ranchería,Calvillo,Aguascalientes
+20856,Jaltiche de Arriba,Ranchería,Calvillo,Aguascalientes
+20856,Mesa del Roble,Ranchería,Calvillo,Aguascalientes
+20860,Cerro Blanco,Ranchería,Calvillo,Aguascalientes
+20860,El Salitre,Ranchería,Calvillo,Aguascalientes
+20860,Las Ánimas,Ranchería,Calvillo,Aguascalientes
+20860,Las Pilas,Ranchería,Calvillo,Aguascalientes
+20860,Michoacanejo,Ranchería,Calvillo,Aguascalientes
+20862,Salitrillo,Ranchería,Calvillo,Aguascalientes
+20862,Jaltiche de Abajo,Ranchería,Calvillo,Aguascalientes
+20862,La Fragua,Ranchería,Calvillo,Aguascalientes
+20862,La Media Luna,Ranchería,Calvillo,Aguascalientes
+20862,La Rinconada,Ranchería,Calvillo,Aguascalientes
+20862,Las Tinajas,Ranchería,Calvillo,Aguascalientes
+20864,El Caracol,Ranchería,Calvillo,Aguascalientes
+20864,El Terrero del Refugio,Ranchería,Calvillo,Aguascalientes
+20864,Presa de los Serna,Ranchería,Calvillo,Aguascalientes
+20870,El Papantón,Ranchería,Calvillo,Aguascalientes
+20870,El Rodeo,Ranchería,Calvillo,Aguascalientes
+20870,La Teresa,Ranchería,Calvillo,Aguascalientes
+20870,Los Patos,Ranchería,Calvillo,Aguascalientes
+20870,Mezquitillos,Ranchería,Calvillo,Aguascalientes
+20870,Peña Blanca,Ranchería,Calvillo,Aguascalientes
+20870,San José,Ranchería,Calvillo,Aguascalientes
+20870,Santos,Ranchería,Calvillo,Aguascalientes
+20870,Vaquerías,Ranchería,Calvillo,Aguascalientes
+20872,Barranca de Portales,Ranchería,Calvillo,Aguascalientes
+20872,El Tigre,Ranchería,Calvillo,Aguascalientes
+20872,Miguel Hidalgo (El Huarache),Ranchería,Calvillo,Aguascalientes
+20874,El Ocote [Banco de Tierra],Ranchería,Calvillo,Aguascalientes
+20874,El Tepalcate,Ranchería,Calvillo,Aguascalientes
+20874,La Joya,Ranchería,Calvillo,Aguascalientes
+20874,Las Trojes,Ranchería,Calvillo,Aguascalientes
+20874,Tanque de los Serna,Ranchería,Calvillo,Aguascalientes
+20880,La Labor,Hacienda,Calvillo,Aguascalientes
+20880,La Primavera,Ranchería,Calvillo,Aguascalientes
+20880,Presa Ordeña Vieja,Ranchería,Calvillo,Aguascalientes
+20880,Temazcal,Ranchería,Calvillo,Aguascalientes
+20880,Paredes,Ranchería,Calvillo,Aguascalientes
+20880,La Hiedra,Ranchería,Calvillo,Aguascalientes
+20880,Ventanillas,Ranchería,Calvillo,Aguascalientes
+20880,El Salitrillo,Ranchería,Calvillo,Aguascalientes
+20882,El Jaralito,Ranchería,Calvillo,Aguascalientes
+20882,El Tepozán,Ranchería,Calvillo,Aguascalientes
+20882,Manguillas,Ranchería,Calvillo,Aguascalientes
+20884,La Ciénega,Ranchería,Calvillo,Aguascalientes
+20884,Presa de los Bajíos,Ranchería,Calvillo,Aguascalientes
+20890,Puerta de Fragua (Presa la Codorniz),Ranchería,Calvillo,Aguascalientes
+20900,Santo Domingo,Condominio,Jesús María,Aguascalientes
+20900,Puerta Norte,Condominio,Jesús María,Aguascalientes
+20900,Residencial Misión de San José,Fraccionamiento,Jesús María,Aguascalientes
+20900,Residencial Campestre Ingles,Fraccionamiento,Jesús María,Aguascalientes
+20900,Camino Real,Fraccionamiento,Jesús María,Aguascalientes
+20900,Corral de Barrancos,Colonia,Jesús María,Aguascalientes
+20900,Maravillas,Colonia,Jesús María,Aguascalientes
+20900,Los Olivos,Fraccionamiento,Jesús María,Aguascalientes
+20900,Rinconada Maravillas,Fraccionamiento,Jesús María,Aguascalientes
+20900,Residencial Villa Campestre,Fraccionamiento,Jesús María,Aguascalientes
+20900,Valle Escondido,Fraccionamiento,Jesús María,Aguascalientes
+20900,Las Pérgolas,Fraccionamiento,Jesús María,Aguascalientes
+20900,La Nogalera,Fraccionamiento,Jesús María,Aguascalientes
+20901,El Maguey,Colonia,Jesús María,Aguascalientes
+20901,Las Jaulas,Colonia,Jesús María,Aguascalientes
+20901,La Loma de Valladolid,Colonia,Jesús María,Aguascalientes
+20901,La Chaveña,Ranchería,Jesús María,Aguascalientes
+20903,Villas de Montecassino,Fraccionamiento,Jesús María,Aguascalientes
+20903,Residencial Santa Paulina,Fraccionamiento,Jesús María,Aguascalientes
+20903,Margaritas,Ranchería,Jesús María,Aguascalientes
+20903,La Florida,Ranchería,Jesús María,Aguascalientes
+20904,El Barreno,Colonia,Jesús María,Aguascalientes
+20904,Los Ramírez,Ranchería,Jesús María,Aguascalientes
+20904,Los Vázquez,Ranchería,Jesús María,Aguascalientes
+20905,Miravalle,Colonia,Jesús María,Aguascalientes
+20905,Paso Blanco,Colonia,Jesús María,Aguascalientes
+20905,Los Arenales,Ranchería,Jesús María,Aguascalientes
+20905,La Lomita de Paso Blanco (Las Canoas),Colonia,Jesús María,Aguascalientes
+20905,Los Sauces,Ranchería,Jesús María,Aguascalientes
+20907,Viñedos Casa Leal,Ranchería,Jesús María,Aguascalientes
+20907,Santa Elena,Fraccionamiento,Jesús María,Aguascalientes
+20907,Viñedos Frutilandia,Ranchería,Jesús María,Aguascalientes
+20907,Paseos de Aguascalientes,Colonia,Jesús María,Aguascalientes
+20907,Arboledas de Paso Blanco,Fraccionamiento,Jesús María,Aguascalientes
+20907,Centro Distribuidor de Básicos Viñedos San Marcos,Zona comercial,Jesús María,Aguascalientes
+20907,Paseos del Country,Condominio,Jesús María,Aguascalientes
+20907,Residencial Campo Real,Fraccionamiento,Jesús María,Aguascalientes
+20907,Jardines de Campo Real,Fraccionamiento,Jesús María,Aguascalientes
+20908,Mayorazgo San Cristóbal,Condominio,Jesús María,Aguascalientes
+20908,Belmondo,Condominio,Jesús María,Aguascalientes
+20908,Residencial Marcellana,Fraccionamiento,Jesús María,Aguascalientes
+20908,Rinconada Cuauhtémoc,Fraccionamiento,Jesús María,Aguascalientes
+20908,Catania Spazio,Fraccionamiento,Jesús María,Aguascalientes
+20908,Punta Norte,Condominio,Jesús María,Aguascalientes
+20908,Los Gavilanes,Ranchería,Jesús María,Aguascalientes
+20908,Nura,Condominio,Jesús María,Aguascalientes
+20908,Santa Isabel Tola,Fraccionamiento,Jesús María,Aguascalientes
+20908,Bosques de los Ciprés,Condominio,Jesús María,Aguascalientes
+20908,Bosques del Paraíso I,Fraccionamiento,Jesús María,Aguascalientes
+20908,Bosques del Paraíso II,Fraccionamiento,Jesús María,Aguascalientes
+20908,Augusta,Condominio,Jesús María,Aguascalientes
+20908,Bosques del Paraíso VI,Fraccionamiento,Jesús María,Aguascalientes
+20908,Bosques del Paraíso III,Fraccionamiento,Jesús María,Aguascalientes
+20908,Bosques del Paraíso IV,Fraccionamiento,Jesús María,Aguascalientes
+20908,Vivanta,Condominio,Jesús María,Aguascalientes
+20908,Tepetates,Colonia,Jesús María,Aguascalientes
+20908,Trojes de San Cristóbal,Fraccionamiento,Jesús María,Aguascalientes
+20908,Quintas de Monticello,Fraccionamiento,Jesús María,Aguascalientes
+20908,Viña Antigua,Fraccionamiento,Jesús María,Aguascalientes
+20908,Villas del Molino,Fraccionamiento,Jesús María,Aguascalientes
+20908,Porta Real,Condominio,Jesús María,Aguascalientes
+20908,Residencial Cedros,Fraccionamiento,Jesús María,Aguascalientes
+20908,Rancho San Miguel Residencial,Fraccionamiento,Jesús María,Aguascalientes
+20908,Alcázar Residencial,Fraccionamiento,Jesús María,Aguascalientes
+20908,Reserva San Cristóbal,Fraccionamiento,Jesús María,Aguascalientes
+20908,La Arborada,Fraccionamiento,Jesús María,Aguascalientes
+20908,Privanza de Gratamira,Fraccionamiento,Jesús María,Aguascalientes
+20908,Tierraverde (Habitat Gran Clase),Fraccionamiento,Jesús María,Aguascalientes
+20908,Andares,Fraccionamiento,Jesús María,Aguascalientes
+20909,INFONAVIT Margaritas,Fraccionamiento,Jesús María,Aguascalientes
+20909,Villas del Sol,Fraccionamiento,Jesús María,Aguascalientes
+20909,Valle de Margaritas,Fraccionamiento,Jesús María,Aguascalientes
+20909,Saturnino Herran,Colonia,Jesús María,Aguascalientes
+20909,Los Vázquez,Colonia,Jesús María,Aguascalientes
+20909,Santa Fe Tecnopark,Zona industrial,Jesús María,Aguascalientes
+20909,Alea Park,Zona industrial,Jesús María,Aguascalientes
+20909,Jesús Gómez Portugal (Margaritas),Pueblo,Jesús María,Aguascalientes
+20909,El Zapato,Ranchería,Jesús María,Aguascalientes
+20909,Paseos Gómez Portugal,Fraccionamiento,Jesús María,Aguascalientes
+20909,La Guayana (Rancho Seco),Ejido,Jesús María,Aguascalientes
+20909,Paso de Argenta,Fraccionamiento,Jesús María,Aguascalientes
+20910,San Antonio de los Horcones,Colonia,Jesús María,Aguascalientes
+20910,Brownsville,Colonia,Jesús María,Aguascalientes
+20913,Valladolid,Pueblo,Jesús María,Aguascalientes
+20913,El Refugio,Ejido,Jesús María,Aguascalientes
+20913,El Aurero,Ranchería,Jesús María,Aguascalientes
+20913,Villas de Guadalupe (La Malobra),Colonia,Jesús María,Aguascalientes
+20913,El Cenizo,Colonia,Jesús María,Aguascalientes
+20914,La Granjita (Los Palillos),Ranchería,Jesús María,Aguascalientes
+20916,Parque Industrial Chichimeco,Zona industrial,Jesús María,Aguascalientes
+20916,El Chichimeco,Hacienda,Jesús María,Aguascalientes
+20916,Paseos de las Haciendas,Fraccionamiento,Jesús María,Aguascalientes
+20916,Cartuja Residencial,Fraccionamiento,Jesús María,Aguascalientes
+20917,Pedernal Segundo,Ranchería,Jesús María,Aguascalientes
+20920,Jesús María Centro,Colonia,Jesús María,Aguascalientes
+20922,Bellavista,Colonia,Jesús María,Aguascalientes
+20922,La Troje,Fraccionamiento,Jesús María,Aguascalientes
+20922,El Calvario,Colonia,Jesús María,Aguascalientes
+20922,La Escalera,Colonia,Jesús María,Aguascalientes
+20923,Rinconada Jesús María,Fraccionamiento,Jesús María,Aguascalientes
+20923,Real Campestre,Fraccionamiento,Jesús María,Aguascalientes
+20923,La Villa Residencial,Fraccionamiento,Jesús María,Aguascalientes
+20923,Los Álamos,Condominio,Jesús María,Aguascalientes
+20923,La Misión,Fraccionamiento,Jesús María,Aguascalientes
+20923,Flores Magón,Colonia,Jesús María,Aguascalientes
+20923,La Cardona,Colonia,Jesús María,Aguascalientes
+20923,La Cuesta,Fraccionamiento,Jesús María,Aguascalientes
+20923,Los Arroyitos,Colonia,Jesús María,Aguascalientes
+20923,San Miguelito,Colonia,Jesús María,Aguascalientes
+20923,Rinconada San Miguelito,Fraccionamiento,Jesús María,Aguascalientes
+20923,Ruiseñores,Condominio,Jesús María,Aguascalientes
+20923,Residencial Jesús María,Fraccionamiento,Jesús María,Aguascalientes
+20924,Cielo Claro,Colonia,Jesús María,Aguascalientes
+20924,Agua Clara,Fraccionamiento,Jesús María,Aguascalientes
+20924,Jacarandas,Colonia,Jesús María,Aguascalientes
+20924,Deportiva,Colonia,Jesús María,Aguascalientes
+20924,Rancho San Pedro,Fraccionamiento,Jesús María,Aguascalientes
+20924,Palma Dorada,Fraccionamiento,Jesús María,Aguascalientes
+20925,Arroyo del Bosque,Fraccionamiento,Jesús María,Aguascalientes
+20925,Misantla,Fraccionamiento,Jesús María,Aguascalientes
+20925,Villas Tec,Fraccionamiento,Jesús María,Aguascalientes
+20925,Agua Zarca,Fraccionamiento,Jesús María,Aguascalientes
+20925,Benigno Chávez,Fraccionamiento,Jesús María,Aguascalientes
+20925,Lomas de Jesús María,Colonia,Jesús María,Aguascalientes
+20925,Vistas del Sáuz,Colonia,Jesús María,Aguascalientes
+20925,Puerta Grande,Condominio,Jesús María,Aguascalientes
+20926,Rincón del Pilar,Fraccionamiento,Jesús María,Aguascalientes
+20926,La Palma,Fraccionamiento,Jesús María,Aguascalientes
+20926,Quintas Miguel Jerónimo,Fraccionamiento,Jesús María,Aguascalientes
+20926,Las Palmas,Colonia,Jesús María,Aguascalientes
+20926,Arboledas,Colonia,Jesús María,Aguascalientes
+20926,Chicahuales,Colonia,Jesús María,Aguascalientes
+20926,Lomas del Valle,Colonia,Jesús María,Aguascalientes
+20926,Martínez Andrade,Colonia,Jesús María,Aguascalientes
+20926,Solidaridad,Fraccionamiento,Jesús María,Aguascalientes
+20926,Vista Hermosa,Colonia,Jesús María,Aguascalientes
+20926,Manantiales del Pinar,Fraccionamiento,Jesús María,Aguascalientes
+20926,La Loma,Fraccionamiento,Jesús María,Aguascalientes
+20926,La Piedra,Condominio,Jesús María,Aguascalientes
+20926,Lomas de los Vergeles,Fraccionamiento,Jesús María,Aguascalientes
+20926,Rinconada Bugambilias,Condominio,Jesús María,Aguascalientes
+20926,Misión de Santa María,Condominio,Jesús María,Aguascalientes
+20926,Yalta Campestre,Condominio,Jesús María,Aguascalientes
+20926,Residencial Tres Arroyos,Fraccionamiento,Jesús María,Aguascalientes
+20926,Mirabrujas,Fraccionamiento,Jesús María,Aguascalientes
+20926,Tulipanes Residencial,Fraccionamiento,Jesús María,Aguascalientes
+20927,Ayuntamiento,Fraccionamiento,Jesús María,Aguascalientes
+20927,La Cañada,Colonia,Jesús María,Aguascalientes
+20927,Ampliación La Cañada,Colonia,Jesús María,Aguascalientes
+20927,Ojos de Agua,Colonia,Jesús María,Aguascalientes
+20928,Luis Donaldo Colosio,Colonia,Jesús María,Aguascalientes
+20928,Ejidal,Fraccionamiento,Jesús María,Aguascalientes
+20928,El Torito,Colonia,Jesús María,Aguascalientes
+20928,Las Palmas,Colonia,Jesús María,Aguascalientes
+20928,Plan Benito Juárez,Fraccionamiento,Jesús María,Aguascalientes
+20928,El Mezquital,Fraccionamiento,Jesús María,Aguascalientes
+20928,El Chaveño,Colonia,Jesús María,Aguascalientes
+20928,Buenavista,Fraccionamiento,Jesús María,Aguascalientes
+20928,Solar de Jonacatique,Colonia,Jesús María,Aguascalientes
+20933,Unión de Ladrilleros,Colonia,Jesús María,Aguascalientes
+20934,San Lorenzo,Hacienda,Jesús María,Aguascalientes
+20943,Los Muñoz,Ranchería,Jesús María,Aguascalientes
+20943,Milpillas de Abajo,Ejido,Jesús María,Aguascalientes
+20943,Ex-hacienda de Milpillas,Ejido,Jesús María,Aguascalientes
+20947,Gracias a Dios,Ejido,Jesús María,Aguascalientes
+20947,El Zapote,Ranchería,Jesús María,Aguascalientes
+20953,Cañada el Rodeo,Ranchería,Jesús María,Aguascalientes
+20954,El Conejo (Puerta del Llano),Ranchería,Jesús María,Aguascalientes
+20955,La Mesa del Contadero (El Contadero),Ranchería,Jesús María,Aguascalientes
+20955,San Rafael,Ranchería,Jesús María,Aguascalientes
+20956,Piedras Negras,Ranchería,Jesús María,Aguascalientes
+20957,Pedernal Primero,Ranchería,Jesús María,Aguascalientes
+20957,El Rincón de la Virgen (El Rincón),Ranchería,Jesús María,Aguascalientes
+20957,Lomas de San Isidro,Ranchería,Jesús María,Aguascalientes
+20970,Tapias Viejas,Ejido,Jesús María,Aguascalientes
+20970,Puente de Villalpando (El Puente),Ranchería,Jesús María,Aguascalientes
+20974,Puentes Cuates,Ranchería,Jesús María,Aguascalientes
+20983,Real del Molino,Fraccionamiento,Jesús María,Aguascalientes
+20983,Mezquital del Country,Fraccionamiento,Jesús María,Aguascalientes
+20983,El Llano,Colonia,Jesús María,Aguascalientes
+20983,Trojes del Pedregal,Fraccionamiento,Jesús María,Aguascalientes
+20983,Residencial Trojes del Norte,Fraccionamiento,Jesús María,Aguascalientes
+20983,Residencial Trojes del Norte II,Fraccionamiento,Jesús María,Aguascalientes
+20983,Residencial Antiguo Country,Condominio,Jesús María,Aguascalientes
+20984,Villa Natty Residencial,Fraccionamiento,Jesús María,Aguascalientes
+20984,Andrea,Condominio,Jesús María,Aguascalientes
+20984,Providencia,Colonia,Jesús María,Aguascalientes
+20990,General Ignacio Zaragoza (Venadero),Pueblo,Jesús María,Aguascalientes
+20990,Buenavista,Ranchería,Jesús María,Aguascalientes
+20994,Cieneguitas,Pueblo,Jesús María,Aguascalientes
+20994,Villas de Montegrande,Colonia,Jesús María,Aguascalientes
+20994,La Tomatina,Ejido,Jesús María,Aguascalientes
+20995,Agua Zarca,Ranchería,Jesús María,Aguascalientes
+20996,Jesús María,Ejido,Jesús María,Aguascalientes
+20996,Los Arquitos,Ejido,Jesús María,Aguascalientes
+20996,La Primavera,Colonia,Jesús María,Aguascalientes
+20997,El Chacho,Pueblo,Jesús María,Aguascalientes
+20997,Ruscello,Condominio,Jesús María,Aguascalientes
+20997,Q Campestre Residencial,Condominio,Jesús María,Aguascalientes
