@@ -11,12 +11,33 @@ pub type PostalCodes = Vec<PostalCode>;
 // Useful struct to store any postal code
 #[derive(Debug, FromRow)]
 pub struct PostalCode {
-    pub id: i32,
+    pub id: Option<i32>,
     pub code: String,
     pub neighborhood: String,
     pub category: String,
     pub city: String,
     pub state: String,
+}
+
+pub struct PostalCodeInDTO {
+    pub code: String,
+    pub neighborhood: String,
+    pub category: String,
+    pub city: String,
+    pub state: String,
+}
+
+impl PostalCode {
+    pub fn new(dto: PostalCodeInDTO) -> Self {
+        PostalCode {
+            id: None,
+            code: dto.code,
+            neighborhood: dto.neighborhood,
+            category: dto.category,
+            city: dto.city,
+            state: dto.state,
+        }
+    }
 }
 
 // # Postal Code Repository
@@ -26,4 +47,5 @@ pub struct PostalCode {
 pub trait PostalCodeRepository {
     async fn list(&self) -> Result<PostalCodes, io::Error>;
     async fn paginate(&self, offset: i64, limit: i64) -> Result<PostalCodes, io::Error>;
+    async fn create(&self, p: &mut PostalCode) -> Result<bool, io::Error>;
 }

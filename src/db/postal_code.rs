@@ -24,7 +24,7 @@ impl PostalCodeRepository for PostalCodeRepositoryPG {
         // 1. Explicitly construct the object
         let rows: PostalCodes = sqlx::query(query)
             .map(|row: PgRow| PostalCode {
-                id: row.get("id"),
+                id: Some(row.get("id")),
                 code: row.get("code"),
                 neighborhood: row.get("neighborhood"),
                 category: row.get("category"),
@@ -50,5 +50,30 @@ impl PostalCodeRepository for PostalCodeRepositoryPG {
             .unwrap();
 
         Ok(rows)
+    }
+
+    async fn create(&self, p: &mut PostalCode) -> Result<bool, Error> {
+        let query = "
+        INSERT INTO postal_code (code, neighborhood, category, city, state)
+        VALUES ($1, $2, $3, $4, $5)
+        RETURNING id
+        ";
+
+        let query = sqlx::query(query)
+            .bind(&p.code)
+            .bind(&p.neighborhood)
+            .bind(&p.category)
+            .bind(&p.city)
+            .bind(&p.state);
+
+        let id: i32 = query
+            .map(|row: PgRow| row.get::<i32, _>("id"))
+            .fetch_one(&self.pool)
+            .await
+            .unwrap();
+
+        p.id = Some(id);
+
+        Ok(true)
     }
 }
